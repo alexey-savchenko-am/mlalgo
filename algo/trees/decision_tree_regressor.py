@@ -1,4 +1,4 @@
-from typing import Optional, Tuple
+from typing import Optional, Tuple, Dict, List
 import numpy as np
 import pickle
 
@@ -25,11 +25,10 @@ class DecisionTreeRegressor:
         self.max_depth = max_depth
         self.root: Optional[DecisionTreeRegressor.Node] = None
 
-
     # --------------------------------- public methods ---------------------------------
     def fit(self, X: Array, y: Array) -> None:
         """Build a decision tree regressor from training data."""
-        self.root = self._build_tree(X, y)
+        self.root = self._build_tree(X, y, self._get_thresholds(X), 0)
 
     def predict(self, X: Array) -> Array:
         """Predict target values for given samples X."""
@@ -65,7 +64,7 @@ class DecisionTreeRegressor:
                 joblib.dump(self, path)
                 return
             except Exception:
-                #fallback to pickle if joblib isn't available of failed
+                #fallback to pickle if joblib isn't available or failed
                 pass
         with open(path, "wb") as f:
             pickle.dump(self, f)
@@ -89,24 +88,42 @@ class DecisionTreeRegressor:
         return obj
 
     # --------------------------------- private methods ---------------------------------
-    def _mse(self, y: Array) -> float:
-        return float(np.var(y)) * len(y)
+    @staticmethod
+    def _mse(y: Array) -> float:
+        return float(y.var() * y.size)
     
+    @staticmethod
+    def _get_thresholds(X: Array) -> Dict[int, List[float]]:
+        """Gets all thresholds by feature"""
+        thresholds_dict: Dict[int, List[float]] = {}
+        _, n_features = X.shape
+        for feat_idx in range(n_features):
+            feature_values = np.unique(X[:, feat_idx])
+            thresholds: List[float] = []
+            for i in range(1, len(feature_values)):
+                t = (feature_values[i] + feature_values[i - 1]) / 2
+                thresholds.append(t)
+            thresholds_dict[feat_idx] = thresholds
+        return thresholds_dict  
+    
+    @staticmethod
     def _split_dataset(
-            self, X: Array, y: Array, feature_index: int, threshold: float
+            X: Array, y: Array, feature_index: int, threshold: float
     ) -> Tuple[Array, Array, Array, Array]:
         left_mask = X[:, feature_index] <= threshold
         right_mask = X[:, feature_index] > threshold
         return X[left_mask], y[left_mask], X[right_mask], y[right_mask]
     
-    def _best_split(self, X: Array, y: Array) -> Tuple[Optional[int], Optional[float]]:
+    def _best_split(
+            self, X: Array, y: Array, threshold_dict: Dict[int, List[float]]
+        ) -> Tuple[Optional[int], Optional[float]]:
         best_feature, best_threshold = None, None
         best_score = float("inf")
         n_samples, n_features = X.shape
 
         for feature in range(n_features):
-            values = np.unique(X[:, feature])
-            thresholds = (values[:-1] + values[1:]) / 2
+            thresholds = threshold_dict[feature]
+
             for t in thresholds:
                 X_left, y_left, X_right, y_right = self._split_dataset(X, y, feature, t)
                 if len(y_left) == 0 or len(y_right) == 0:
@@ -118,17 +135,19 @@ class DecisionTreeRegressor:
         
         return best_feature, best_threshold
     
-    def _build_tree(self, X: Array, y: Array, depth: int = 0):
+    def _build_tree(
+            self, X: Array, y: Array, threshold_dict: Dict[int, List[float]], depth: int = 0
+        ) -> Node:
         if depth >= self.max_depth or len(np.unique(y)) == 1:
             return self.Node(value=float(np.mean(y)))
         
-        feature, threshold = self._best_split(X, y)
+        feature, threshold = self._best_split(X, y, threshold_dict)
         if feature is None:
             return self.Node(value=float(np.mean(y)))
         
         X_left, y_left, X_right, y_right = self._split_dataset(X, y, feature, threshold)
-        left_node = self._build_tree(X_left, y_left, depth+1)
-        right_node = self._build_tree(X_right, y_right, depth+1)
+        left_node = self._build_tree(X_left, y_left, threshold_dict, depth+1)
+        right_node = self._build_tree(X_right, y_right, threshold_dict, depth+1)
 
         return self.Node(feature=feature, threshold=threshold, left=left_node, right=right_node)
     
@@ -139,9 +158,4 @@ class DecisionTreeRegressor:
         if x[node.feature] <= node.threshold:
             return self._predict_one(node.left, x)
         else:
-            return self._predict_one(node.right, x) 
-
-
-
-    
-            
+            return self._predict_one(node.right, x)

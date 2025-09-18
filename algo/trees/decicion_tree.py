@@ -1,6 +1,7 @@
 from sklearn.datasets import fetch_california_housing
 from decision_tree_regressor import DecisionTreeRegressor
 import numpy as np
+from typing import Dict, List
 
 housing = fetch_california_housing()
 
@@ -26,4 +27,3 @@ y_pred = tree.predict(X_test)
 
 print("Predicted:", y_pred)
 print("True:", y_true)
-
