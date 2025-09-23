@@ -1,11 +1,17 @@
 # mlalgo
 A collection of machine learning algorithms, including Linear Regression, Decision Trees, and more, with clear implementations and examples.
 
-## Linear Regression
+## Regressions
 
-## Logistic Regression
+### Linear Regression
+
+### Logistic Regression
 
 ## Decision Trees
+
+### Classification Trees
+
+### Regression Trees
 
 ## Tree Ensambles
 
