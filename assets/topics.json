@@ -1,0 +1,806 @@
+[
+  {
+    "text": "Basketball players fought hard until overtime last year.",
+    "label": "sports"
+  },
+  {
+    "text": "Astronomers published images of distant galaxies",
+    "label": "science"
+  },
+  {
+    "text": "The hockey match ended with a thrilling shootout last year.",
+    "label": "sports"
+  },
+  {
+    "text": "The composer created a symphony for a string orchestra worldwide.",
+    "label": "art"
+  },
+  {
+    "text": "Scientists discovered a new exoplanet similar to Earth last year.",
+    "label": "science"
+  },
+  {
+    "text": "Physicists conducted an experiment on quantum entanglement worldwide.",
+    "label": "science"
+  },
+  {
+    "text": "The football team won the championship final last year.",
+    "label": "sports"
+  },
+  {
+    "text": "The museum opened an exhibition of modern sculptures in New York.",
+    "label": "art"
+  },
+  {
+    "text": "The football team won the championship final in New York.",
+    "label": "sports"
+  },
+  {
+    "text": "The poet released a collection of new poems according to experts.",
+    "label": "art"
+  },
+  {
+    "text": "Physicists conducted an experiment on quantum entanglement according to experts.",
+    "label": "science"
+  },
+  {
+    "text": "The museum opened an exhibition of modern sculptures yesterday.",
+    "label": "art"
+  },
+  {
+    "text": "The football team won the championship final in New York.",
+    "label": "sports"
+  },
+  {
+    "text": "The theater premiered a play by a classic author yesterday.",
+    "label": "art"
+  },
+  {
+    "text": "The football team won the championship final last year.",
+    "label": "sports"
+  },
+  {
+    "text": "Physicists conducted an experiment on quantum entanglement in New York.",
+    "label": "science"
+  },
+  {
+    "text": "The poet released a collection of new poems in New York.",
+    "label": "art"
+  },
+  {
+    "text": "Basketball players fought hard until overtime worldwide.",
+    "label": "sports"
+  },
+  {
+    "text": "Scientists discovered a new exoplanet similar to Earth according to experts.",
+    "label": "science"
+  },
+  {
+    "text": "The artist unveiled a new painting at the gallery",
+    "label": "art"
+  },
+  {
+    "text": "The runner broke the world record in the marathon worldwide.",
+    "label": "sports"
+  },
+  {
+    "text": "Biologists mapped the genome of a rare species",
+    "label": "science"
+  },
+  {
+    "text": "Biologists mapped the genome of a rare species last year.",
+    "label": "science"
+  },
+  {
+    "text": "The runner broke the world record in the marathon in New York.",
+    "label": "sports"
+  },
+  {
+    "text": "The runner broke the world record in the marathon yesterday.",
+    "label": "sports"
+  },
+  {
+    "text": "The football team won the championship final according to experts.",
+    "label": "sports"
+  },
+  {
+    "text": "The composer created a symphony for a string orchestra worldwide.",
+    "label": "art"
+  },
+  {
+    "text": "Scientists discovered a new exoplanet similar to Earth",
+    "label": "science"
+  },
+  {
+    "text": "The football team won the championship final",
+    "label": "sports"
+  },
+  {
+    "text": "Physicists conducted an experiment on quantum entanglement yesterday.",
+    "label": "science"
+  },
+  {
+    "text": "The museum opened an exhibition of modern sculptures",
+    "label": "art"
+  },
+  {
+    "text": "The theater premiered a play by a classic author worldwide.",
+    "label": "art"
+  },
+  {
+    "text": "Physicists conducted an experiment on quantum entanglement yesterday.",
+    "label": "science"
+  },
+  {
+    "text": "The artist unveiled a new painting at the gallery worldwide.",
+    "label": "art"
+  },
+  {
+    "text": "The hockey match ended with a thrilling shootout according to experts.",
+    "label": "sports"
+  },
+  {
+    "text": "Researchers developed a new vaccine for influenza",
+    "label": "science"
+  },
+  {
+    "text": "The tennis player secured a Grand Slam victory yesterday.",
+    "label": "sports"
+  },
+  {
+    "text": "The hockey match ended with a thrilling shootout last year.",
+    "label": "sports"
+  },
+  {
+    "text": "The artist unveiled a new painting at the gallery in New York.",
+    "label": "art"
+  },
+  {
+    "text": "The poet released a collection of new poems yesterday.",
+    "label": "art"
+  },
+  {
+    "text": "The artist unveiled a new painting at the gallery according to experts.",
+    "label": "art"
+  },
+  {
+    "text": "The football team won the championship final in New York.",
+    "label": "sports"
+  },
+  {
+    "text": "Scientists discovered a new exoplanet similar to Earth worldwide.",
+    "label": "science"
+  },
+  {
+    "text": "Researchers developed a new vaccine for influenza yesterday.",
+    "label": "science"
+  },
+  {
+    "text": "Physicists conducted an experiment on quantum entanglement according to experts.",
+    "label": "science"
+  },
+  {
+    "text": "The poet released a collection of new poems worldwide.",
+    "label": "art"
+  },
+  {
+    "text": "Scientists discovered a new exoplanet similar to Earth",
+    "label": "science"
+  },
+  {
+    "text": "The football team won the championship final yesterday.",
+    "label": "sports"
+  },
+  {
+    "text": "The poet released a collection of new poems",
+    "label": "art"
+  },
+  {
+    "text": "The museum opened an exhibition of modern sculptures yesterday.",
+    "label": "art"
+  },
+  {
+    "text": "The football team won the championship final yesterday.",
+    "label": "sports"
+  },
+  {
+    "text": "Researchers developed a new vaccine for influenza worldwide.",
+    "label": "science"
+  },
+  {
+    "text": "The theater premiered a play by a classic author last year.",
+    "label": "art"
+  },
+  {
+    "text": "The hockey match ended with a thrilling shootout in New York.",
+    "label": "sports"
+  },
+  {
+    "text": "Basketball players fought hard until overtime according to experts.",
+    "label": "sports"
+  },
+  {
+    "text": "The hockey match ended with a thrilling shootout yesterday.",
+    "label": "sports"
+  },
+  {
+    "text": "The composer created a symphony for a string orchestra last year.",
+    "label": "art"
+  },
+  {
+    "text": "The composer created a symphony for a string orchestra",
+    "label": "art"
+  },
+  {
+    "text": "The tennis player secured a Grand Slam victory worldwide.",
+    "label": "sports"
+  },
+  {
+    "text": "The artist unveiled a new painting at the gallery according to experts.",
+    "label": "art"
+  },
+  {
+    "text": "The football team won the championship final according to experts.",
+    "label": "sports"
+  },
+  {
+    "text": "The poet released a collection of new poems worldwide.",
+    "label": "art"
+  },
+  {
+    "text": "The composer created a symphony for a string orchestra according to experts.",
+    "label": "art"
+  },
+  {
+    "text": "Researchers developed a new vaccine for influenza worldwide.",
+    "label": "science"
+  },
+  {
+    "text": "Researchers developed a new vaccine for influenza in New York.",
+    "label": "science"
+  },
+  {
+    "text": "Physicists conducted an experiment on quantum entanglement according to experts.",
+    "label": "science"
+  },
+  {
+    "text": "Biologists mapped the genome of a rare species worldwide.",
+    "label": "science"
+  },
+  {
+    "text": "Researchers developed a new vaccine for influenza in New York.",
+    "label": "science"
+  },
+  {
+    "text": "Researchers developed a new vaccine for influenza worldwide.",
+    "label": "science"
+  },
+  {
+    "text": "Biologists mapped the genome of a rare species according to experts.",
+    "label": "science"
+  },
+  {
+    "text": "Astronomers published images of distant galaxies according to experts.",
+    "label": "science"
+  },
+  {
+    "text": "Researchers developed a new vaccine for influenza worldwide.",
+    "label": "science"
+  },
+  {
+    "text": "The football team won the championship final in New York.",
+    "label": "sports"
+  },
+  {
+    "text": "The hockey match ended with a thrilling shootout last year.",
+    "label": "sports"
+  },
+  {
+    "text": "The artist unveiled a new painting at the gallery",
+    "label": "art"
+  },
+  {
+    "text": "Astronomers published images of distant galaxies worldwide.",
+    "label": "science"
+  },
+  {
+    "text": "The tennis player secured a Grand Slam victory in New York.",
+    "label": "sports"
+  },
+  {
+    "text": "The museum opened an exhibition of modern sculptures according to experts.",
+    "label": "art"
+  },
+  {
+    "text": "The artist unveiled a new painting at the gallery in New York.",
+    "label": "art"
+  },
+  {
+    "text": "Biologists mapped the genome of a rare species in New York.",
+    "label": "science"
+  },
+  {
+    "text": "Biologists mapped the genome of a rare species according to experts.",
+    "label": "science"
+  },
+  {
+    "text": "The museum opened an exhibition of modern sculptures according to experts.",
+    "label": "art"
+  },
+  {
+    "text": "Basketball players fought hard until overtime worldwide.",
+    "label": "sports"
+  },
+  {
+    "text": "The museum opened an exhibition of modern sculptures worldwide.",
+    "label": "art"
+  },
+  {
+    "text": "The artist unveiled a new painting at the gallery worldwide.",
+    "label": "art"
+  },
+  {
+    "text": "The hockey match ended with a thrilling shootout",
+    "label": "sports"
+  },
+  {
+    "text": "The composer created a symphony for a string orchestra",
+    "label": "art"
+  },
+  {
+    "text": "Basketball players fought hard until overtime worldwide.",
+    "label": "sports"
+  },
+  {
+    "text": "The tennis player secured a Grand Slam victory according to experts.",
+    "label": "sports"
+  },
+  {
+    "text": "Astronomers published images of distant galaxies last year.",
+    "label": "science"
+  },
+  {
+    "text": "The poet released a collection of new poems according to experts.",
+    "label": "art"
+  },
+  {
+    "text": "Scientists discovered a new exoplanet similar to Earth last year.",
+    "label": "science"
+  },
+  {
+    "text": "The hockey match ended with a thrilling shootout according to experts.",
+    "label": "sports"
+  },
+  {
+    "text": "The runner broke the world record in the marathon last year.",
+    "label": "sports"
+  },
+  {
+    "text": "Physicists conducted an experiment on quantum entanglement",
+    "label": "science"
+  },
+  {
+    "text": "Physicists conducted an experiment on quantum entanglement",
+    "label": "science"
+  },
+  {
+    "text": "The runner broke the world record in the marathon",
+    "label": "sports"
+  },
+  {
+    "text": "The museum opened an exhibition of modern sculptures last year.",
+    "label": "art"
+  },
+  {
+    "text": "Scientists discovered a new exoplanet similar to Earth yesterday.",
+    "label": "science"
+  },
+  {
+    "text": "The football team won the championship final yesterday.",
+    "label": "sports"
+  },
+  {
+    "text": "Basketball players fought hard until overtime worldwide.",
+    "label": "sports"
+  },
+  {
+    "text": "The tennis player secured a Grand Slam victory yesterday.",
+    "label": "sports"
+  },
+  {
+    "text": "Basketball players fought hard until overtime worldwide.",
+    "label": "sports"
+  },
+  {
+    "text": "The poet released a collection of new poems in New York.",
+    "label": "art"
+  },
+  {
+    "text": "The theater premiered a play by a classic author yesterday.",
+    "label": "art"
+  },
+  {
+    "text": "The runner broke the world record in the marathon",
+    "label": "sports"
+  },
+  {
+    "text": "The football team won the championship final yesterday.",
+    "label": "sports"
+  },
+  {
+    "text": "Astronomers published images of distant galaxies",
+    "label": "science"
+  },
+  {
+    "text": "Biologists mapped the genome of a rare species yesterday.",
+    "label": "science"
+  },
+  {
+    "text": "The theater premiered a play by a classic author yesterday.",
+    "label": "art"
+  },
+  {
+    "text": "The museum opened an exhibition of modern sculptures",
+    "label": "art"
+  },
+  {
+    "text": "The composer created a symphony for a string orchestra yesterday.",
+    "label": "art"
+  },
+  {
+    "text": "Biologists mapped the genome of a rare species worldwide.",
+    "label": "science"
+  },
+  {
+    "text": "Scientists discovered a new exoplanet similar to Earth yesterday.",
+    "label": "science"
+  },
+  {
+    "text": "Physicists conducted an experiment on quantum entanglement",
+    "label": "science"
+  },
+  {
+    "text": "The museum opened an exhibition of modern sculptures",
+    "label": "art"
+  },
+  {
+    "text": "The composer created a symphony for a string orchestra worldwide.",
+    "label": "art"
+  },
+  {
+    "text": "The museum opened an exhibition of modern sculptures yesterday.",
+    "label": "art"
+  },
+  {
+    "text": "The football team won the championship final yesterday.",
+    "label": "sports"
+  },
+  {
+    "text": "Basketball players fought hard until overtime last year.",
+    "label": "sports"
+  },
+  {
+    "text": "Researchers developed a new vaccine for influenza worldwide.",
+    "label": "science"
+  },
+  {
+    "text": "The museum opened an exhibition of modern sculptures yesterday.",
+    "label": "art"
+  },
+  {
+    "text": "Astronomers published images of distant galaxies in New York.",
+    "label": "science"
+  },
+  {
+    "text": "The football team won the championship final in New York.",
+    "label": "sports"
+  },
+  {
+    "text": "The runner broke the world record in the marathon in New York.",
+    "label": "sports"
+  },
+  {
+    "text": "Researchers developed a new vaccine for influenza last year.",
+    "label": "science"
+  },
+  {
+    "text": "The hockey match ended with a thrilling shootout in New York.",
+    "label": "sports"
+  },
+  {
+    "text": "The poet released a collection of new poems worldwide.",
+    "label": "art"
+  },
+  {
+    "text": "The tennis player secured a Grand Slam victory",
+    "label": "sports"
+  },
+  {
+    "text": "Astronomers published images of distant galaxies yesterday.",
+    "label": "science"
+  },
+  {
+    "text": "The poet released a collection of new poems in New York.",
+    "label": "art"
+  },
+  {
+    "text": "The museum opened an exhibition of modern sculptures worldwide.",
+    "label": "art"
+  },
+  {
+    "text": "The composer created a symphony for a string orchestra according to experts.",
+    "label": "art"
+  },
+  {
+    "text": "Researchers developed a new vaccine for influenza in New York.",
+    "label": "science"
+  },
+  {
+    "text": "The football team won the championship final in New York.",
+    "label": "sports"
+  },
+  {
+    "text": "Biologists mapped the genome of a rare species last year.",
+    "label": "science"
+  },
+  {
+    "text": "Astronomers published images of distant galaxies",
+    "label": "science"
+  },
+  {
+    "text": "The poet released a collection of new poems last year.",
+    "label": "art"
+  },
+  {
+    "text": "Biologists mapped the genome of a rare species worldwide.",
+    "label": "science"
+  },
+  {
+    "text": "Astronomers published images of distant galaxies worldwide.",
+    "label": "science"
+  },
+  {
+    "text": "Astronomers published images of distant galaxies",
+    "label": "science"
+  },
+  {
+    "text": "The runner broke the world record in the marathon worldwide.",
+    "label": "sports"
+  },
+  {
+    "text": "Basketball players fought hard until overtime according to experts.",
+    "label": "sports"
+  },
+  {
+    "text": "Physicists conducted an experiment on quantum entanglement according to experts.",
+    "label": "science"
+  },
+  {
+    "text": "Researchers developed a new vaccine for influenza worldwide.",
+    "label": "science"
+  },
+  {
+    "text": "The hockey match ended with a thrilling shootout according to experts.",
+    "label": "sports"
+  },
+  {
+    "text": "Biologists mapped the genome of a rare species in New York.",
+    "label": "science"
+  },
+  {
+    "text": "Basketball players fought hard until overtime in New York.",
+    "label": "sports"
+  },
+  {
+    "text": "The poet released a collection of new poems in New York.",
+    "label": "art"
+  },
+  {
+    "text": "The hockey match ended with a thrilling shootout yesterday.",
+    "label": "sports"
+  },
+  {
+    "text": "Astronomers published images of distant galaxies worldwide.",
+    "label": "science"
+  },
+  {
+    "text": "Researchers developed a new vaccine for influenza yesterday.",
+    "label": "science"
+  },
+  {
+    "text": "Biologists mapped the genome of a rare species in New York.",
+    "label": "science"
+  },
+  {
+    "text": "The theater premiered a play by a classic author worldwide.",
+    "label": "art"
+  },
+  {
+    "text": "The football team won the championship final",
+    "label": "sports"
+  },
+  {
+    "text": "Researchers developed a new vaccine for influenza",
+    "label": "science"
+  },
+  {
+    "text": "Astronomers published images of distant galaxies according to experts.",
+    "label": "science"
+  },
+  {
+    "text": "The poet released a collection of new poems worldwide.",
+    "label": "art"
+  },
+  {
+    "text": "The runner broke the world record in the marathon according to experts.",
+    "label": "sports"
+  },
+  {
+    "text": "Biologists mapped the genome of a rare species according to experts.",
+    "label": "science"
+  },
+  {
+    "text": "Researchers developed a new vaccine for influenza yesterday.",
+    "label": "science"
+  },
+  {
+    "text": "Researchers developed a new vaccine for influenza",
+    "label": "science"
+  },
+  {
+    "text": "The poet released a collection of new poems according to experts.",
+    "label": "art"
+  },
+  {
+    "text": "The tennis player secured a Grand Slam victory worldwide.",
+    "label": "sports"
+  },
+  {
+    "text": "Biologists mapped the genome of a rare species last year.",
+    "label": "science"
+  },
+  {
+    "text": "The theater premiered a play by a classic author according to experts.",
+    "label": "art"
+  },
+  {
+    "text": "The artist unveiled a new painting at the gallery last year.",
+    "label": "art"
+  },
+  {
+    "text": "The artist unveiled a new painting at the gallery yesterday.",
+    "label": "art"
+  },
+  {
+    "text": "The football team won the championship final worldwide.",
+    "label": "sports"
+  },
+  {
+    "text": "The hockey match ended with a thrilling shootout worldwide.",
+    "label": "sports"
+  },
+  {
+    "text": "The theater premiered a play by a classic author last year.",
+    "label": "art"
+  },
+  {
+    "text": "Scientists discovered a new exoplanet similar to Earth",
+    "label": "science"
+  },
+  {
+    "text": "The football team won the championship final worldwide.",
+    "label": "sports"
+  },
+  {
+    "text": "The theater premiered a play by a classic author in New York.",
+    "label": "art"
+  },
+  {
+    "text": "Basketball players fought hard until overtime according to experts.",
+    "label": "sports"
+  },
+  {
+    "text": "The artist unveiled a new painting at the gallery yesterday.",
+    "label": "art"
+  },
+  {
+    "text": "Astronomers published images of distant galaxies last year.",
+    "label": "science"
+  },
+  {
+    "text": "Researchers developed a new vaccine for influenza in New York.",
+    "label": "science"
+  },
+  {
+    "text": "The composer created a symphony for a string orchestra last year.",
+    "label": "art"
+  },
+  {
+    "text": "The artist unveiled a new painting at the gallery yesterday.",
+    "label": "art"
+  },
+  {
+    "text": "Scientists discovered a new exoplanet similar to Earth according to experts.",
+    "label": "science"
+  },
+  {
+    "text": "The runner broke the world record in the marathon according to experts.",
+    "label": "sports"
+  },
+  {
+    "text": "Astronomers published images of distant galaxies yesterday.",
+    "label": "science"
+  },
+  {
+    "text": "Researchers developed a new vaccine for influenza yesterday.",
+    "label": "science"
+  },
+  {
+    "text": "The football team won the championship final yesterday.",
+    "label": "sports"
+  },
+  {
+    "text": "Biologists mapped the genome of a rare species",
+    "label": "science"
+  },
+  {
+    "text": "The artist unveiled a new painting at the gallery in New York.",
+    "label": "art"
+  },
+  {
+    "text": "The tennis player secured a Grand Slam victory according to experts.",
+    "label": "sports"
+  },
+  {
+    "text": "Physicists conducted an experiment on quantum entanglement according to experts.",
+    "label": "science"
+  },
+  {
+    "text": "Scientists discovered a new exoplanet similar to Earth in New York.",
+    "label": "science"
+  },
+  {
+    "text": "The hockey match ended with a thrilling shootout worldwide.",
+    "label": "sports"
+  },
+  {
+    "text": "The hockey match ended with a thrilling shootout",
+    "label": "sports"
+  },
+  {
+    "text": "Astronomers published images of distant galaxies in New York.",
+    "label": "science"
+  },
+  {
+    "text": "The museum opened an exhibition of modern sculptures according to experts.",
+    "label": "art"
+  },
+  {
+    "text": "The composer created a symphony for a string orchestra worldwide.",
+    "label": "art"
+  },
+  {
+    "text": "Basketball players fought hard until overtime according to experts.",
+    "label": "sports"
+  },
+  {
+    "text": "The poet released a collection of new poems last year.",
+    "label": "art"
+  },
+  {
+    "text": "Researchers developed a new vaccine for influenza according to experts.",
+    "label": "science"
+  },
+  {
+    "text": "The museum opened an exhibition of modern sculptures",
+    "label": "art"
+  },
+  {
+    "text": "The museum opened an exhibition of modern sculptures according to experts.",
+    "label": "art"
+  },
+  {
+    "text": "",
+    "label": ""
+  }
+]
