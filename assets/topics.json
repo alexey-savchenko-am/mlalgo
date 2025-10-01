@@ -1,806 +1,4002 @@
 [
   {
-    "text": "Basketball players fought hard until overtime last year.",
+    "text": "The Olympics bring nations together. Example #1017",
     "label": "sports"
   },
   {
-    "text": "Astronomers published images of distant galaxies",
+    "text": "Tennis requires speed and skill. Example #9106",
+    "label": "sports"
+  },
+  {
+    "text": "Painting is a beautiful form of expression. Example #2703",
+    "label": "art"
+  },
+  {
+    "text": "Theater combines acting and storytelling. Example #8507",
+    "label": "art"
+  },
+  {
+    "text": "Chemistry deals with reactions and matter. Example #5768",
+    "label": "science"
+  },
+  {
+    "text": "Running is one of the oldest sports. Example #3253",
+    "label": "sports"
+  },
+  {
+    "text": "Football is a very popular game. Example #1687",
+    "label": "sports"
+  },
+  {
+    "text": "Physics explains how the universe works. Example #7645",
+    "label": "science"
+  },
+  {
+    "text": "Photography captures moments forever. Example #2844",
+    "label": "art"
+  },
+  {
+    "text": "Chemistry deals with reactions and matter. Example #4627",
+    "label": "science"
+  },
+  {
+    "text": "Physics explains how the universe works. Example #5450",
+    "label": "science"
+  },
+  {
+    "text": "Chemistry deals with reactions and matter. Example #1078",
+    "label": "science"
+  },
+  {
+    "text": "Running is one of the oldest sports. Example #2320",
+    "label": "sports"
+  },
+  {
+    "text": "Basketball is played worldwide. Example #6075",
+    "label": "sports"
+  },
+  {
+    "text": "Painting is a beautiful form of expression. Example #4087",
+    "label": "art"
+  },
+  {
+    "text": "Football is a very popular game. Example #4153",
+    "label": "sports"
+  },
+  {
+    "text": "Biology studies living organisms. Example #8427",
+    "label": "science"
+  },
+  {
+    "text": "Painting is a beautiful form of expression. Example #637",
+    "label": "art"
+  },
+  {
+    "text": "Einstein developed the theory of relativity. Example #4561",
+    "label": "science"
+  },
+  {
+    "text": "Physics explains how the universe works. Example #9265",
+    "label": "science"
+  },
+  {
+    "text": "Physics explains how the universe works. Example #2711",
+    "label": "science"
+  },
+  {
+    "text": "Astronomy explores stars and planets. Example #9621",
+    "label": "science"
+  },
+  {
+    "text": "Physics explains how the universe works. Example #9256",
+    "label": "science"
+  },
+  {
+    "text": "Tennis requires speed and skill. Example #5977",
+    "label": "sports"
+  },
+  {
+    "text": "Football is a very popular game. Example #5032",
+    "label": "sports"
+  },
+  {
+    "text": "Astronomy explores stars and planets. Example #2679",
+    "label": "science"
+  },
+  {
+    "text": "Music brings emotions to life. Example #1382",
+    "label": "art"
+  },
+  {
+    "text": "Painting is a beautiful form of expression. Example #7573",
+    "label": "art"
+  },
+  {
+    "text": "Photography captures moments forever. Example #8535",
+    "label": "art"
+  },
+  {
+    "text": "Chemistry deals with reactions and matter. Example #4088",
+    "label": "science"
+  },
+  {
+    "text": "Astronomy explores stars and planets. Example #7567",
+    "label": "science"
+  },
+  {
+    "text": "Tennis requires speed and skill. Example #8830",
+    "label": "sports"
+  },
+  {
+    "text": "Astronomy explores stars and planets. Example #3853",
+    "label": "science"
+  },
+  {
+    "text": "Painting is a beautiful form of expression. Example #1719",
+    "label": "art"
+  },
+  {
+    "text": "Running is one of the oldest sports. Example #8173",
+    "label": "sports"
+  },
+  {
+    "text": "Sculpture turns stone into art. Example #8291",
+    "label": "art"
+  },
+  {
+    "text": "Theater combines acting and storytelling. Example #7289",
+    "label": "art"
+  },
+  {
+    "text": "Physics explains how the universe works. Example #9411",
+    "label": "science"
+  },
+  {
+    "text": "Basketball is played worldwide. Example #8901",
+    "label": "sports"
+  },
+  {
+    "text": "Running is one of the oldest sports. Example #3071",
+    "label": "sports"
+  },
+  {
+    "text": "Running is one of the oldest sports. Example #5438",
+    "label": "sports"
+  },
+  {
+    "text": "Theater combines acting and storytelling. Example #6261",
+    "label": "art"
+  },
+  {
+    "text": "Photography captures moments forever. Example #5206",
+    "label": "art"
+  },
+  {
+    "text": "Biology studies living organisms. Example #2407",
+    "label": "science"
+  },
+  {
+    "text": "Biology studies living organisms. Example #1921",
+    "label": "science"
+  },
+  {
+    "text": "Music brings emotions to life. Example #5538",
+    "label": "art"
+  },
+  {
+    "text": "Astronomy explores stars and planets. Example #2194",
+    "label": "science"
+  },
+  {
+    "text": "Music brings emotions to life. Example #8237",
+    "label": "art"
+  },
+  {
+    "text": "Photography captures moments forever. Example #530",
+    "label": "art"
+  },
+  {
+    "text": "Music brings emotions to life. Example #8687",
+    "label": "art"
+  },
+  {
+    "text": "Running is one of the oldest sports. Example #1113",
+    "label": "sports"
+  },
+  {
+    "text": "Einstein developed the theory of relativity. Example #1386",
+    "label": "science"
+  },
+  {
+    "text": "Photography captures moments forever. Example #913",
+    "label": "art"
+  },
+  {
+    "text": "Tennis requires speed and skill. Example #8379",
+    "label": "sports"
+  },
+  {
+    "text": "Tennis requires speed and skill. Example #6514",
+    "label": "sports"
+  },
+  {
+    "text": "Chemistry deals with reactions and matter. Example #1845",
+    "label": "science"
+  },
+  {
+    "text": "Physics explains how the universe works. Example #7579",
+    "label": "science"
+  },
+  {
+    "text": "Football is a very popular game. Example #5513",
+    "label": "sports"
+  },
+  {
+    "text": "Basketball is played worldwide. Example #9457",
+    "label": "sports"
+  },
+  {
+    "text": "Painting is a beautiful form of expression. Example #4995",
+    "label": "art"
+  },
+  {
+    "text": "Football is a very popular game. Example #8890",
+    "label": "sports"
+  },
+  {
+    "text": "Sculpture turns stone into art. Example #6086",
+    "label": "art"
+  },
+  {
+    "text": "Running is one of the oldest sports. Example #829",
+    "label": "sports"
+  },
+  {
+    "text": "Sculpture turns stone into art. Example #6279",
+    "label": "art"
+  },
+  {
+    "text": "The Olympics bring nations together. Example #7377",
+    "label": "sports"
+  },
+  {
+    "text": "The Olympics bring nations together. Example #6022",
+    "label": "sports"
+  },
+  {
+    "text": "Physics explains how the universe works. Example #2305",
+    "label": "science"
+  },
+  {
+    "text": "Physics explains how the universe works. Example #9205",
+    "label": "science"
+  },
+  {
+    "text": "Music brings emotions to life. Example #2198",
+    "label": "art"
+  },
+  {
+    "text": "Painting is a beautiful form of expression. Example #4890",
+    "label": "art"
+  },
+  {
+    "text": "Theater combines acting and storytelling. Example #3585",
+    "label": "art"
+  },
+  {
+    "text": "Sculpture turns stone into art. Example #1185",
+    "label": "art"
+  },
+  {
+    "text": "The Olympics bring nations together. Example #4036",
+    "label": "sports"
+  },
+  {
+    "text": "Music brings emotions to life. Example #1991",
+    "label": "art"
+  },
+  {
+    "text": "Tennis requires speed and skill. Example #9517",
+    "label": "sports"
+  },
+  {
+    "text": "Tennis requires speed and skill. Example #9513",
+    "label": "sports"
+  },
+  {
+    "text": "Chemistry deals with reactions and matter. Example #3183",
+    "label": "science"
+  },
+  {
+    "text": "Einstein developed the theory of relativity. Example #8986",
+    "label": "science"
+  },
+  {
+    "text": "Einstein developed the theory of relativity. Example #1175",
+    "label": "science"
+  },
+  {
+    "text": "The Olympics bring nations together. Example #2837",
+    "label": "sports"
+  },
+  {
+    "text": "Basketball is played worldwide. Example #3912",
+    "label": "sports"
+  },
+  {
+    "text": "Running is one of the oldest sports. Example #6706",
+    "label": "sports"
+  },
+  {
+    "text": "Football is a very popular game. Example #5515",
+    "label": "sports"
+  },
+  {
+    "text": "Running is one of the oldest sports. Example #725",
+    "label": "sports"
+  },
+  {
+    "text": "Theater combines acting and storytelling. Example #1713",
+    "label": "art"
+  },
+  {
+    "text": "Tennis requires speed and skill. Example #3973",
+    "label": "sports"
+  },
+  {
+    "text": "Biology studies living organisms. Example #7660",
+    "label": "science"
+  },
+  {
+    "text": "Football is a very popular game. Example #1411",
+    "label": "sports"
+  },
+  {
+    "text": "Tennis requires speed and skill. Example #7186",
+    "label": "sports"
+  },
+  {
+    "text": "Physics explains how the universe works. Example #5251",
+    "label": "science"
+  },
+  {
+    "text": "Theater combines acting and storytelling. Example #3548",
+    "label": "art"
+  },
+  {
+    "text": "Theater combines acting and storytelling. Example #4175",
+    "label": "art"
+  },
+  {
+    "text": "Football is a very popular game. Example #952",
+    "label": "sports"
+  },
+  {
+    "text": "Photography captures moments forever. Example #8544",
+    "label": "art"
+  },
+  {
+    "text": "Photography captures moments forever. Example #8352",
+    "label": "art"
+  },
+  {
+    "text": "The Olympics bring nations together. Example #7682",
+    "label": "sports"
+  },
+  {
+    "text": "Football is a very popular game. Example #804",
+    "label": "sports"
+  },
+  {
+    "text": "Einstein developed the theory of relativity. Example #4224",
+    "label": "science"
+  },
+  {
+    "text": "Football is a very popular game. Example #9867",
+    "label": "sports"
+  },
+  {
+    "text": "Einstein developed the theory of relativity. Example #2844",
+    "label": "science"
+  },
+  {
+    "text": "Biology studies living organisms. Example #7063",
+    "label": "science"
+  },
+  {
+    "text": "Photography captures moments forever. Example #532",
+    "label": "art"
+  },
+  {
+    "text": "Running is one of the oldest sports. Example #8475",
+    "label": "sports"
+  },
+  {
+    "text": "Photography captures moments forever. Example #5362",
+    "label": "art"
+  },
+  {
+    "text": "The Olympics bring nations together. Example #8075",
+    "label": "sports"
+  },
+  {
+    "text": "Football is a very popular game. Example #6267",
+    "label": "sports"
+  },
+  {
+    "text": "Chemistry deals with reactions and matter. Example #8547",
+    "label": "science"
+  },
+  {
+    "text": "Running is one of the oldest sports. Example #9901",
+    "label": "sports"
+  },
+  {
+    "text": "Biology studies living organisms. Example #1092",
+    "label": "science"
+  },
+  {
+    "text": "Painting is a beautiful form of expression. Example #6334",
+    "label": "art"
+  },
+  {
+    "text": "Biology studies living organisms. Example #1720",
+    "label": "science"
+  },
+  {
+    "text": "Painting is a beautiful form of expression. Example #6202",
+    "label": "art"
+  },
+  {
+    "text": "Physics explains how the universe works. Example #415",
+    "label": "science"
+  },
+  {
+    "text": "Biology studies living organisms. Example #6684",
+    "label": "science"
+  },
+  {
+    "text": "Theater combines acting and storytelling. Example #198",
+    "label": "art"
+  },
+  {
+    "text": "Physics explains how the universe works. Example #5133",
+    "label": "science"
+  },
+  {
+    "text": "Painting is a beautiful form of expression. Example #2549",
+    "label": "art"
+  },
+  {
+    "text": "Theater combines acting and storytelling. Example #3774",
+    "label": "art"
+  },
+  {
+    "text": "Sculpture turns stone into art. Example #5092",
+    "label": "art"
+  },
+  {
+    "text": "Biology studies living organisms. Example #3417",
+    "label": "science"
+  },
+  {
+    "text": "Tennis requires speed and skill. Example #3819",
+    "label": "sports"
+  },
+  {
+    "text": "Painting is a beautiful form of expression. Example #5582",
+    "label": "art"
+  },
+  {
+    "text": "Painting is a beautiful form of expression. Example #2430",
+    "label": "art"
+  },
+  {
+    "text": "Basketball is played worldwide. Example #5641",
+    "label": "sports"
+  },
+  {
+    "text": "Music brings emotions to life. Example #3715",
+    "label": "art"
+  },
+  {
+    "text": "Basketball is played worldwide. Example #1842",
+    "label": "sports"
+  },
+  {
+    "text": "Football is a very popular game. Example #3389",
+    "label": "sports"
+  },
+  {
+    "text": "The Olympics bring nations together. Example #7430",
+    "label": "sports"
+  },
+  {
+    "text": "Einstein developed the theory of relativity. Example #6691",
+    "label": "science"
+  },
+  {
+    "text": "Chemistry deals with reactions and matter. Example #183",
+    "label": "science"
+  },
+  {
+    "text": "Einstein developed the theory of relativity. Example #3996",
+    "label": "science"
+  },
+  {
+    "text": "Football is a very popular game. Example #7351",
+    "label": "sports"
+  },
+  {
+    "text": "Einstein developed the theory of relativity. Example #3304",
+    "label": "science"
+  },
+  {
+    "text": "Einstein developed the theory of relativity. Example #8320",
+    "label": "science"
+  },
+  {
+    "text": "Einstein developed the theory of relativity. Example #4954",
+    "label": "science"
+  },
+  {
+    "text": "Physics explains how the universe works. Example #8989",
+    "label": "science"
+  },
+  {
+    "text": "Tennis requires speed and skill. Example #7883",
+    "label": "sports"
+  },
+  {
+    "text": "Biology studies living organisms. Example #386",
+    "label": "science"
+  },
+  {
+    "text": "Sculpture turns stone into art. Example #318",
+    "label": "art"
+  },
+  {
+    "text": "Theater combines acting and storytelling. Example #5625",
+    "label": "art"
+  },
+  {
+    "text": "Photography captures moments forever. Example #8431",
+    "label": "art"
+  },
+  {
+    "text": "Biology studies living organisms. Example #4665",
+    "label": "science"
+  },
+  {
+    "text": "Basketball is played worldwide. Example #8976",
+    "label": "sports"
+  },
+  {
+    "text": "Chemistry deals with reactions and matter. Example #9597",
+    "label": "science"
+  },
+  {
+    "text": "Biology studies living organisms. Example #8990",
+    "label": "science"
+  },
+  {
+    "text": "Music brings emotions to life. Example #4012",
+    "label": "art"
+  },
+  {
+    "text": "The Olympics bring nations together. Example #9579",
+    "label": "sports"
+  },
+  {
+    "text": "Einstein developed the theory of relativity. Example #6249",
+    "label": "science"
+  },
+  {
+    "text": "Sculpture turns stone into art. Example #8413",
+    "label": "art"
+  },
+  {
+    "text": "Music brings emotions to life. Example #4902",
+    "label": "art"
+  },
+  {
+    "text": "Theater combines acting and storytelling. Example #4611",
+    "label": "art"
+  },
+  {
+    "text": "Theater combines acting and storytelling. Example #9432",
+    "label": "art"
+  },
+  {
+    "text": "Photography captures moments forever. Example #9153",
+    "label": "art"
+  },
+  {
+    "text": "Sculpture turns stone into art. Example #1073",
+    "label": "art"
+  },
+  {
+    "text": "The Olympics bring nations together. Example #7680",
+    "label": "sports"
+  },
+  {
+    "text": "Sculpture turns stone into art. Example #8029",
+    "label": "art"
+  },
+  {
+    "text": "Basketball is played worldwide. Example #8154",
+    "label": "sports"
+  },
+  {
+    "text": "Football is a very popular game. Example #5739",
+    "label": "sports"
+  },
+  {
+    "text": "Chemistry deals with reactions and matter. Example #9878",
+    "label": "science"
+  },
+  {
+    "text": "Football is a very popular game. Example #6970",
+    "label": "sports"
+  },
+  {
+    "text": "Music brings emotions to life. Example #5084",
+    "label": "art"
+  },
+  {
+    "text": "Physics explains how the universe works. Example #6558",
+    "label": "science"
+  },
+  {
+    "text": "The Olympics bring nations together. Example #7123",
+    "label": "sports"
+  },
+  {
+    "text": "Basketball is played worldwide. Example #676",
+    "label": "sports"
+  },
+  {
+    "text": "Biology studies living organisms. Example #6927",
+    "label": "science"
+  },
+  {
+    "text": "The Olympics bring nations together. Example #2723",
+    "label": "sports"
+  },
+  {
+    "text": "Tennis requires speed and skill. Example #361",
+    "label": "sports"
+  },
+  {
+    "text": "Running is one of the oldest sports. Example #1621",
+    "label": "sports"
+  },
+  {
+    "text": "Music brings emotions to life. Example #8031",
+    "label": "art"
+  },
+  {
+    "text": "Painting is a beautiful form of expression. Example #2526",
+    "label": "art"
+  },
+  {
+    "text": "Einstein developed the theory of relativity. Example #2807",
+    "label": "science"
+  },
+  {
+    "text": "Photography captures moments forever. Example #859",
+    "label": "art"
+  },
+  {
+    "text": "Biology studies living organisms. Example #5861",
+    "label": "science"
+  },
+  {
+    "text": "Painting is a beautiful form of expression. Example #2721",
+    "label": "art"
+  },
+  {
+    "text": "Einstein developed the theory of relativity. Example #7190",
+    "label": "science"
+  },
+  {
+    "text": "Sculpture turns stone into art. Example #4804",
+    "label": "art"
+  },
+  {
+    "text": "Physics explains how the universe works. Example #3279",
+    "label": "science"
+  },
+  {
+    "text": "The Olympics bring nations together. Example #3263",
+    "label": "sports"
+  },
+  {
+    "text": "Painting is a beautiful form of expression. Example #8018",
+    "label": "art"
+  },
+  {
+    "text": "Biology studies living organisms. Example #2901",
+    "label": "science"
+  },
+  {
+    "text": "Chemistry deals with reactions and matter. Example #4928",
+    "label": "science"
+  },
+  {
+    "text": "Theater combines acting and storytelling. Example #6017",
+    "label": "art"
+  },
+  {
+    "text": "Football is a very popular game. Example #2290",
+    "label": "sports"
+  },
+  {
+    "text": "The Olympics bring nations together. Example #9367",
+    "label": "sports"
+  },
+  {
+    "text": "Einstein developed the theory of relativity. Example #4376",
+    "label": "science"
+  },
+  {
+    "text": "Music brings emotions to life. Example #3536",
+    "label": "art"
+  },
+  {
+    "text": "Einstein developed the theory of relativity. Example #4267",
+    "label": "science"
+  },
+  {
+    "text": "Basketball is played worldwide. Example #5554",
+    "label": "sports"
+  },
+  {
+    "text": "Tennis requires speed and skill. Example #17",
+    "label": "sports"
+  },
+  {
+    "text": "Painting is a beautiful form of expression. Example #3273",
+    "label": "art"
+  },
+  {
+    "text": "Theater combines acting and storytelling. Example #1379",
+    "label": "art"
+  },
+  {
+    "text": "Running is one of the oldest sports. Example #4147",
+    "label": "sports"
+  },
+  {
+    "text": "Music brings emotions to life. Example #9718",
+    "label": "art"
+  },
+  {
+    "text": "Music brings emotions to life. Example #3401",
+    "label": "art"
+  },
+  {
+    "text": "Theater combines acting and storytelling. Example #3753",
+    "label": "art"
+  },
+  {
+    "text": "Chemistry deals with reactions and matter. Example #4409",
+    "label": "science"
+  },
+  {
+    "text": "Music brings emotions to life. Example #6567",
+    "label": "art"
+  },
+  {
+    "text": "Tennis requires speed and skill. Example #7949",
+    "label": "sports"
+  },
+  {
+    "text": "Tennis requires speed and skill. Example #8959",
+    "label": "sports"
+  },
+  {
+    "text": "Photography captures moments forever. Example #5946",
+    "label": "art"
+  },
+  {
+    "text": "Painting is a beautiful form of expression. Example #2639",
+    "label": "art"
+  },
+  {
+    "text": "Tennis requires speed and skill. Example #4979",
+    "label": "sports"
+  },
+  {
+    "text": "Basketball is played worldwide. Example #1956",
+    "label": "sports"
+  },
+  {
+    "text": "Basketball is played worldwide. Example #9605",
+    "label": "sports"
+  },
+  {
+    "text": "Basketball is played worldwide. Example #9169",
+    "label": "sports"
+  },
+  {
+    "text": "Painting is a beautiful form of expression. Example #312",
+    "label": "art"
+  },
+  {
+    "text": "Photography captures moments forever. Example #4084",
+    "label": "art"
+  },
+  {
+    "text": "Basketball is played worldwide. Example #3411",
+    "label": "sports"
+  },
+  {
+    "text": "Einstein developed the theory of relativity. Example #3732",
+    "label": "science"
+  },
+  {
+    "text": "Running is one of the oldest sports. Example #4027",
+    "label": "sports"
+  },
+  {
+    "text": "Football is a very popular game. Example #4342",
+    "label": "sports"
+  },
+  {
+    "text": "Einstein developed the theory of relativity. Example #4330",
+    "label": "science"
+  },
+  {
+    "text": "Tennis requires speed and skill. Example #4020",
+    "label": "sports"
+  },
+  {
+    "text": "Photography captures moments forever. Example #154",
+    "label": "art"
+  },
+  {
+    "text": "Running is one of the oldest sports. Example #1003",
+    "label": "sports"
+  },
+  {
+    "text": "Photography captures moments forever. Example #3592",
+    "label": "art"
+  },
+  {
+    "text": "Running is one of the oldest sports. Example #9726",
+    "label": "sports"
+  },
+  {
+    "text": "Basketball is played worldwide. Example #2615",
+    "label": "sports"
+  },
+  {
+    "text": "Sculpture turns stone into art. Example #9460",
+    "label": "art"
+  },
+  {
+    "text": "Theater combines acting and storytelling. Example #1459",
+    "label": "art"
+  },
+  {
+    "text": "Painting is a beautiful form of expression. Example #2778",
+    "label": "art"
+  },
+  {
+    "text": "Theater combines acting and storytelling. Example #7719",
+    "label": "art"
+  },
+  {
+    "text": "Einstein developed the theory of relativity. Example #460",
+    "label": "science"
+  },
+  {
+    "text": "Photography captures moments forever. Example #9493",
+    "label": "art"
+  },
+  {
+    "text": "Painting is a beautiful form of expression. Example #8714",
+    "label": "art"
+  },
+  {
+    "text": "Biology studies living organisms. Example #5283",
+    "label": "science"
+  },
+  {
+    "text": "Einstein developed the theory of relativity. Example #1860",
+    "label": "science"
+  },
+  {
+    "text": "Photography captures moments forever. Example #9626",
+    "label": "art"
+  },
+  {
+    "text": "Music brings emotions to life. Example #7038",
+    "label": "art"
+  },
+  {
+    "text": "Basketball is played worldwide. Example #3285",
+    "label": "sports"
+  },
+  {
+    "text": "Einstein developed the theory of relativity. Example #2154",
+    "label": "science"
+  },
+  {
+    "text": "Music brings emotions to life. Example #6910",
+    "label": "art"
+  },
+  {
+    "text": "Music brings emotions to life. Example #483",
+    "label": "art"
+  },
+  {
+    "text": "Theater combines acting and storytelling. Example #990",
+    "label": "art"
+  },
+  {
+    "text": "Music brings emotions to life. Example #6652",
+    "label": "art"
+  },
+  {
+    "text": "Tennis requires speed and skill. Example #970",
+    "label": "sports"
+  },
+  {
+    "text": "Painting is a beautiful form of expression. Example #402",
+    "label": "art"
+  },
+  {
+    "text": "Photography captures moments forever. Example #2607",
+    "label": "art"
+  },
+  {
+    "text": "Astronomy explores stars and planets. Example #3593",
+    "label": "science"
+  },
+  {
+    "text": "The Olympics bring nations together. Example #2746",
+    "label": "sports"
+  },
+  {
+    "text": "Sculpture turns stone into art. Example #9390",
+    "label": "art"
+  },
+  {
+    "text": "Theater combines acting and storytelling. Example #5990",
+    "label": "art"
+  },
+  {
+    "text": "Painting is a beautiful form of expression. Example #3438",
+    "label": "art"
+  },
+  {
+    "text": "Basketball is played worldwide. Example #2798",
+    "label": "sports"
+  },
+  {
+    "text": "Photography captures moments forever. Example #8090",
+    "label": "art"
+  },
+  {
+    "text": "Physics explains how the universe works. Example #7497",
+    "label": "science"
+  },
+  {
+    "text": "Theater combines acting and storytelling. Example #3904",
+    "label": "art"
+  },
+  {
+    "text": "Running is one of the oldest sports. Example #3568",
+    "label": "sports"
+  },
+  {
+    "text": "The Olympics bring nations together. Example #1428",
+    "label": "sports"
+  },
+  {
+    "text": "Einstein developed the theory of relativity. Example #6547",
+    "label": "science"
+  },
+  {
+    "text": "Running is one of the oldest sports. Example #2264",
+    "label": "sports"
+  },
+  {
+    "text": "Astronomy explores stars and planets. Example #2441",
+    "label": "science"
+  },
+  {
+    "text": "Running is one of the oldest sports. Example #6064",
+    "label": "sports"
+  },
+  {
+    "text": "Sculpture turns stone into art. Example #5066",
+    "label": "art"
+  },
+  {
+    "text": "Music brings emotions to life. Example #8198",
+    "label": "art"
+  },
+  {
+    "text": "Tennis requires speed and skill. Example #284",
+    "label": "sports"
+  },
+  {
+    "text": "Music brings emotions to life. Example #3390",
+    "label": "art"
+  },
+  {
+    "text": "Biology studies living organisms. Example #9915",
+    "label": "science"
+  },
+  {
+    "text": "The Olympics bring nations together. Example #8289",
+    "label": "sports"
+  },
+  {
+    "text": "Music brings emotions to life. Example #1831",
+    "label": "art"
+  },
+  {
+    "text": "Theater combines acting and storytelling. Example #9642",
+    "label": "art"
+  },
+  {
+    "text": "Basketball is played worldwide. Example #6554",
+    "label": "sports"
+  },
+  {
+    "text": "Running is one of the oldest sports. Example #4202",
+    "label": "sports"
+  },
+  {
+    "text": "Chemistry deals with reactions and matter. Example #2784",
+    "label": "science"
+  },
+  {
+    "text": "Football is a very popular game. Example #5154",
+    "label": "sports"
+  },
+  {
+    "text": "Running is one of the oldest sports. Example #6020",
+    "label": "sports"
+  },
+  {
+    "text": "Chemistry deals with reactions and matter. Example #1317",
+    "label": "science"
+  },
+  {
+    "text": "Tennis requires speed and skill. Example #293",
+    "label": "sports"
+  },
+  {
+    "text": "Physics explains how the universe works. Example #7978",
+    "label": "science"
+  },
+  {
+    "text": "Astronomy explores stars and planets. Example #7441",
+    "label": "science"
+  },
+  {
+    "text": "Einstein developed the theory of relativity. Example #631",
+    "label": "science"
+  },
+  {
+    "text": "Music brings emotions to life. Example #9723",
+    "label": "art"
+  },
+  {
+    "text": "Biology studies living organisms. Example #1715",
+    "label": "science"
+  },
+  {
+    "text": "Football is a very popular game. Example #8301",
+    "label": "sports"
+  },
+  {
+    "text": "Painting is a beautiful form of expression. Example #1850",
+    "label": "art"
+  },
+  {
+    "text": "Painting is a beautiful form of expression. Example #3855",
+    "label": "art"
+  },
+  {
+    "text": "Basketball is played worldwide. Example #2433",
+    "label": "sports"
+  },
+  {
+    "text": "Theater combines acting and storytelling. Example #4468",
+    "label": "art"
+  },
+  {
+    "text": "Astronomy explores stars and planets. Example #4895",
+    "label": "science"
+  },
+  {
+    "text": "Football is a very popular game. Example #3713",
+    "label": "sports"
+  },
+  {
+    "text": "Running is one of the oldest sports. Example #186",
+    "label": "sports"
+  },
+  {
+    "text": "Tennis requires speed and skill. Example #8771",
+    "label": "sports"
+  },
+  {
+    "text": "Running is one of the oldest sports. Example #1260",
+    "label": "sports"
+  },
+  {
+    "text": "Chemistry deals with reactions and matter. Example #811",
+    "label": "science"
+  },
+  {
+    "text": "Running is one of the oldest sports. Example #3814",
+    "label": "sports"
+  },
+  {
+    "text": "Tennis requires speed and skill. Example #2620",
+    "label": "sports"
+  },
+  {
+    "text": "The Olympics bring nations together. Example #5959",
+    "label": "sports"
+  },
+  {
+    "text": "Biology studies living organisms. Example #2749",
+    "label": "science"
+  },
+  {
+    "text": "Painting is a beautiful form of expression. Example #4624",
+    "label": "art"
+  },
+  {
+    "text": "Einstein developed the theory of relativity. Example #8700",
+    "label": "science"
+  },
+  {
+    "text": "Sculpture turns stone into art. Example #6223",
+    "label": "art"
+  },
+  {
+    "text": "Basketball is played worldwide. Example #4926",
+    "label": "sports"
+  },
+  {
+    "text": "Running is one of the oldest sports. Example #9534",
+    "label": "sports"
+  },
+  {
+    "text": "Football is a very popular game. Example #5679",
+    "label": "sports"
+  },
+  {
+    "text": "Chemistry deals with reactions and matter. Example #4130",
+    "label": "science"
+  },
+  {
+    "text": "Einstein developed the theory of relativity. Example #8477",
+    "label": "science"
+  },
+  {
+    "text": "Running is one of the oldest sports. Example #1468",
+    "label": "sports"
+  },
+  {
+    "text": "Einstein developed the theory of relativity. Example #2925",
+    "label": "science"
+  },
+  {
+    "text": "Chemistry deals with reactions and matter. Example #6239",
+    "label": "science"
+  },
+  {
+    "text": "Tennis requires speed and skill. Example #5484",
+    "label": "sports"
+  },
+  {
+    "text": "Biology studies living organisms. Example #6349",
+    "label": "science"
+  },
+  {
+    "text": "Einstein developed the theory of relativity. Example #5083",
+    "label": "science"
+  },
+  {
+    "text": "Photography captures moments forever. Example #86",
+    "label": "art"
+  },
+  {
+    "text": "Chemistry deals with reactions and matter. Example #392",
+    "label": "science"
+  },
+  {
+    "text": "Sculpture turns stone into art. Example #5232",
+    "label": "art"
+  },
+  {
+    "text": "Astronomy explores stars and planets. Example #837",
+    "label": "science"
+  },
+  {
+    "text": "The Olympics bring nations together. Example #9705",
+    "label": "sports"
+  },
+  {
+    "text": "Sculpture turns stone into art. Example #7049",
+    "label": "art"
+  },
+  {
+    "text": "Painting is a beautiful form of expression. Example #9926",
+    "label": "art"
+  },
+  {
+    "text": "Music brings emotions to life. Example #5321",
+    "label": "art"
+  },
+  {
+    "text": "Football is a very popular game. Example #9996",
+    "label": "sports"
+  },
+  {
+    "text": "Astronomy explores stars and planets. Example #1071",
+    "label": "science"
+  },
+  {
+    "text": "Football is a very popular game. Example #1017",
+    "label": "sports"
+  },
+  {
+    "text": "Biology studies living organisms. Example #2133",
+    "label": "science"
+  },
+  {
+    "text": "Physics explains how the universe works. Example #3911",
+    "label": "science"
+  },
+  {
+    "text": "Football is a very popular game. Example #9521",
+    "label": "sports"
+  },
+  {
+    "text": "Einstein developed the theory of relativity. Example #5595",
+    "label": "science"
+  },
+  {
+    "text": "Chemistry deals with reactions and matter. Example #9721",
+    "label": "science"
+  },
+  {
+    "text": "Einstein developed the theory of relativity. Example #5233",
+    "label": "science"
+  },
+  {
+    "text": "Biology studies living organisms. Example #8923",
+    "label": "science"
+  },
+  {
+    "text": "Sculpture turns stone into art. Example #7835",
+    "label": "art"
+  },
+  {
+    "text": "Chemistry deals with reactions and matter. Example #1408",
+    "label": "science"
+  },
+  {
+    "text": "Physics explains how the universe works. Example #6593",
+    "label": "science"
+  },
+  {
+    "text": "Photography captures moments forever. Example #6911",
+    "label": "art"
+  },
+  {
+    "text": "Football is a very popular game. Example #6805",
+    "label": "sports"
+  },
+  {
+    "text": "Chemistry deals with reactions and matter. Example #5901",
+    "label": "science"
+  },
+  {
+    "text": "Einstein developed the theory of relativity. Example #6389",
+    "label": "science"
+  },
+  {
+    "text": "Tennis requires speed and skill. Example #3786",
+    "label": "sports"
+  },
+  {
+    "text": "Sculpture turns stone into art. Example #1980",
+    "label": "art"
+  },
+  {
+    "text": "Photography captures moments forever. Example #7953",
+    "label": "art"
+  },
+  {
+    "text": "Basketball is played worldwide. Example #1744",
+    "label": "sports"
+  },
+  {
+    "text": "Music brings emotions to life. Example #2294",
+    "label": "art"
+  },
+  {
+    "text": "Biology studies living organisms. Example #1997",
+    "label": "science"
+  },
+  {
+    "text": "Astronomy explores stars and planets. Example #8702",
+    "label": "science"
+  },
+  {
+    "text": "Running is one of the oldest sports. Example #2969",
+    "label": "sports"
+  },
+  {
+    "text": "Football is a very popular game. Example #3800",
+    "label": "sports"
+  },
+  {
+    "text": "Music brings emotions to life. Example #2363",
+    "label": "art"
+  },
+  {
+    "text": "Chemistry deals with reactions and matter. Example #6693",
+    "label": "science"
+  },
+  {
+    "text": "Theater combines acting and storytelling. Example #1602",
+    "label": "art"
+  },
+  {
+    "text": "Music brings emotions to life. Example #4467",
+    "label": "art"
+  },
+  {
+    "text": "Einstein developed the theory of relativity. Example #6050",
+    "label": "science"
+  },
+  {
+    "text": "Running is one of the oldest sports. Example #3179",
+    "label": "sports"
+  },
+  {
+    "text": "The Olympics bring nations together. Example #5870",
+    "label": "sports"
+  },
+  {
+    "text": "Basketball is played worldwide. Example #639",
+    "label": "sports"
+  },
+  {
+    "text": "Physics explains how the universe works. Example #8270",
+    "label": "science"
+  },
+  {
+    "text": "Tennis requires speed and skill. Example #6620",
+    "label": "sports"
+  },
+  {
+    "text": "Chemistry deals with reactions and matter. Example #806",
+    "label": "science"
+  },
+  {
+    "text": "Sculpture turns stone into art. Example #6530",
+    "label": "art"
+  },
+  {
+    "text": "Physics explains how the universe works. Example #9879",
+    "label": "science"
+  },
+  {
+    "text": "Chemistry deals with reactions and matter. Example #2393",
+    "label": "science"
+  },
+  {
+    "text": "Basketball is played worldwide. Example #5891",
+    "label": "sports"
+  },
+  {
+    "text": "Tennis requires speed and skill. Example #602",
+    "label": "sports"
+  },
+  {
+    "text": "Basketball is played worldwide. Example #7847",
+    "label": "sports"
+  },
+  {
+    "text": "Football is a very popular game. Example #2533",
+    "label": "sports"
+  },
+  {
+    "text": "Physics explains how the universe works. Example #4325",
+    "label": "science"
+  },
+  {
+    "text": "Photography captures moments forever. Example #8157",
+    "label": "art"
+  },
+  {
+    "text": "Sculpture turns stone into art. Example #1182",
+    "label": "art"
+  },
+  {
+    "text": "Tennis requires speed and skill. Example #1100",
+    "label": "sports"
+  },
+  {
+    "text": "Theater combines acting and storytelling. Example #2343",
+    "label": "art"
+  },
+  {
+    "text": "Chemistry deals with reactions and matter. Example #5722",
+    "label": "science"
+  },
+  {
+    "text": "Basketball is played worldwide. Example #9458",
+    "label": "sports"
+  },
+  {
+    "text": "Tennis requires speed and skill. Example #5953",
+    "label": "sports"
+  },
+  {
+    "text": "Photography captures moments forever. Example #457",
+    "label": "art"
+  },
+  {
+    "text": "Basketball is played worldwide. Example #1836",
+    "label": "sports"
+  },
+  {
+    "text": "Football is a very popular game. Example #1082",
+    "label": "sports"
+  },
+  {
+    "text": "Physics explains how the universe works. Example #6954",
+    "label": "science"
+  },
+  {
+    "text": "Football is a very popular game. Example #2637",
+    "label": "sports"
+  },
+  {
+    "text": "Basketball is played worldwide. Example #4873",
+    "label": "sports"
+  },
+  {
+    "text": "Football is a very popular game. Example #7085",
+    "label": "sports"
+  },
+  {
+    "text": "Tennis requires speed and skill. Example #3355",
+    "label": "sports"
+  },
+  {
+    "text": "Photography captures moments forever. Example #1723",
+    "label": "art"
+  },
+  {
+    "text": "Basketball is played worldwide. Example #6180",
+    "label": "sports"
+  },
+  {
+    "text": "Basketball is played worldwide. Example #7845",
+    "label": "sports"
+  },
+  {
+    "text": "Sculpture turns stone into art. Example #7542",
+    "label": "art"
+  },
+  {
+    "text": "Tennis requires speed and skill. Example #9731",
+    "label": "sports"
+  },
+  {
+    "text": "Physics explains how the universe works. Example #190",
+    "label": "science"
+  },
+  {
+    "text": "Painting is a beautiful form of expression. Example #1257",
+    "label": "art"
+  },
+  {
+    "text": "Theater combines acting and storytelling. Example #8794",
+    "label": "art"
+  },
+  {
+    "text": "The Olympics bring nations together. Example #5960",
+    "label": "sports"
+  },
+  {
+    "text": "Football is a very popular game. Example #9536",
+    "label": "sports"
+  },
+  {
+    "text": "Einstein developed the theory of relativity. Example #2184",
+    "label": "science"
+  },
+  {
+    "text": "Chemistry deals with reactions and matter. Example #9591",
+    "label": "science"
+  },
+  {
+    "text": "Einstein developed the theory of relativity. Example #4132",
+    "label": "science"
+  },
+  {
+    "text": "Astronomy explores stars and planets. Example #7535",
+    "label": "science"
+  },
+  {
+    "text": "Painting is a beautiful form of expression. Example #2066",
+    "label": "art"
+  },
+  {
+    "text": "The Olympics bring nations together. Example #796",
+    "label": "sports"
+  },
+  {
+    "text": "Sculpture turns stone into art. Example #3369",
+    "label": "art"
+  },
+  {
+    "text": "Biology studies living organisms. Example #74",
+    "label": "science"
+  },
+  {
+    "text": "Astronomy explores stars and planets. Example #6804",
+    "label": "science"
+  },
+  {
+    "text": "Chemistry deals with reactions and matter. Example #914",
+    "label": "science"
+  },
+  {
+    "text": "Football is a very popular game. Example #6365",
+    "label": "sports"
+  },
+  {
+    "text": "Basketball is played worldwide. Example #3200",
+    "label": "sports"
+  },
+  {
+    "text": "Biology studies living organisms. Example #3658",
+    "label": "science"
+  },
+  {
+    "text": "Astronomy explores stars and planets. Example #9042",
+    "label": "science"
+  },
+  {
+    "text": "Theater combines acting and storytelling. Example #1628",
+    "label": "art"
+  },
+  {
+    "text": "Basketball is played worldwide. Example #7939",
+    "label": "sports"
+  },
+  {
+    "text": "Sculpture turns stone into art. Example #6875",
+    "label": "art"
+  },
+  {
+    "text": "Astronomy explores stars and planets. Example #8562",
+    "label": "science"
+  },
+  {
+    "text": "Painting is a beautiful form of expression. Example #8936",
+    "label": "art"
+  },
+  {
+    "text": "Einstein developed the theory of relativity. Example #194",
+    "label": "science"
+  },
+  {
+    "text": "Astronomy explores stars and planets. Example #7013",
+    "label": "science"
+  },
+  {
+    "text": "Basketball is played worldwide. Example #1417",
+    "label": "sports"
+  },
+  {
+    "text": "Chemistry deals with reactions and matter. Example #6363",
+    "label": "science"
+  },
+  {
+    "text": "Biology studies living organisms. Example #3055",
+    "label": "science"
+  },
+  {
+    "text": "Physics explains how the universe works. Example #5322",
+    "label": "science"
+  },
+  {
+    "text": "Biology studies living organisms. Example #4924",
+    "label": "science"
+  },
+  {
+    "text": "Physics explains how the universe works. Example #9183",
+    "label": "science"
+  },
+  {
+    "text": "Chemistry deals with reactions and matter. Example #4030",
+    "label": "science"
+  },
+  {
+    "text": "Theater combines acting and storytelling. Example #6618",
+    "label": "art"
+  },
+  {
+    "text": "Running is one of the oldest sports. Example #6556",
+    "label": "sports"
+  },
+  {
+    "text": "Football is a very popular game. Example #4770",
+    "label": "sports"
+  },
+  {
+    "text": "Football is a very popular game. Example #3441",
+    "label": "sports"
+  },
+  {
+    "text": "Chemistry deals with reactions and matter. Example #6481",
+    "label": "science"
+  },
+  {
+    "text": "Physics explains how the universe works. Example #2625",
+    "label": "science"
+  },
+  {
+    "text": "Basketball is played worldwide. Example #5395",
+    "label": "sports"
+  },
+  {
+    "text": "Painting is a beautiful form of expression. Example #6951",
+    "label": "art"
+  },
+  {
+    "text": "Running is one of the oldest sports. Example #9684",
+    "label": "sports"
+  },
+  {
+    "text": "Chemistry deals with reactions and matter. Example #3134",
+    "label": "science"
+  },
+  {
+    "text": "Tennis requires speed and skill. Example #4810",
+    "label": "sports"
+  },
+  {
+    "text": "Biology studies living organisms. Example #4321",
+    "label": "science"
+  },
+  {
+    "text": "Running is one of the oldest sports. Example #4919",
+    "label": "sports"
+  },
+  {
+    "text": "Astronomy explores stars and planets. Example #9576",
+    "label": "science"
+  },
+  {
+    "text": "Physics explains how the universe works. Example #5301",
+    "label": "science"
+  },
+  {
+    "text": "Chemistry deals with reactions and matter. Example #9422",
+    "label": "science"
+  },
+  {
+    "text": "Sculpture turns stone into art. Example #166",
+    "label": "art"
+  },
+  {
+    "text": "Biology studies living organisms. Example #4953",
+    "label": "science"
+  },
+  {
+    "text": "Football is a very popular game. Example #5173",
+    "label": "sports"
+  },
+  {
+    "text": "The Olympics bring nations together. Example #9255",
+    "label": "sports"
+  },
+  {
+    "text": "Photography captures moments forever. Example #5912",
+    "label": "art"
+  },
+  {
+    "text": "Chemistry deals with reactions and matter. Example #312",
+    "label": "science"
+  },
+  {
+    "text": "Sculpture turns stone into art. Example #4988",
+    "label": "art"
+  },
+  {
+    "text": "Astronomy explores stars and planets. Example #1323",
+    "label": "science"
+  },
+  {
+    "text": "Physics explains how the universe works. Example #5415",
+    "label": "science"
+  },
+  {
+    "text": "Painting is a beautiful form of expression. Example #8572",
+    "label": "art"
+  },
+  {
+    "text": "Photography captures moments forever. Example #9055",
+    "label": "art"
+  },
+  {
+    "text": "Music brings emotions to life. Example #9242",
+    "label": "art"
+  },
+  {
+    "text": "Einstein developed the theory of relativity. Example #9736",
+    "label": "science"
+  },
+  {
+    "text": "Music brings emotions to life. Example #2858",
+    "label": "art"
+  },
+  {
+    "text": "Football is a very popular game. Example #8479",
+    "label": "sports"
+  },
+  {
+    "text": "Astronomy explores stars and planets. Example #1633",
+    "label": "science"
+  },
+  {
+    "text": "Painting is a beautiful form of expression. Example #6401",
+    "label": "art"
+  },
+  {
+    "text": "Chemistry deals with reactions and matter. Example #60",
+    "label": "science"
+  },
+  {
+    "text": "Football is a very popular game. Example #5798",
+    "label": "sports"
+  },
+  {
+    "text": "Photography captures moments forever. Example #9963",
+    "label": "art"
+  },
+  {
+    "text": "Chemistry deals with reactions and matter. Example #1950",
+    "label": "science"
+  },
+  {
+    "text": "Einstein developed the theory of relativity. Example #551",
+    "label": "science"
+  },
+  {
+    "text": "Einstein developed the theory of relativity. Example #6329",
+    "label": "science"
+  },
+  {
+    "text": "Basketball is played worldwide. Example #7689",
+    "label": "sports"
+  },
+  {
+    "text": "Physics explains how the universe works. Example #6432",
+    "label": "science"
+  },
+  {
+    "text": "Tennis requires speed and skill. Example #2126",
+    "label": "sports"
+  },
+  {
+    "text": "Sculpture turns stone into art. Example #1195",
+    "label": "art"
+  },
+  {
+    "text": "Sculpture turns stone into art. Example #4295",
+    "label": "art"
+  },
+  {
+    "text": "Astronomy explores stars and planets. Example #8290",
+    "label": "science"
+  },
+  {
+    "text": "Chemistry deals with reactions and matter. Example #2229",
+    "label": "science"
+  },
+  {
+    "text": "Biology studies living organisms. Example #9818",
+    "label": "science"
+  },
+  {
+    "text": "Running is one of the oldest sports. Example #8607",
+    "label": "sports"
+  },
+  {
+    "text": "Theater combines acting and storytelling. Example #2226",
+    "label": "art"
+  },
+  {
+    "text": "Sculpture turns stone into art. Example #6577",
+    "label": "art"
+  },
+  {
+    "text": "Running is one of the oldest sports. Example #8572",
+    "label": "sports"
+  },
+  {
+    "text": "Astronomy explores stars and planets. Example #6349",
+    "label": "science"
+  },
+  {
+    "text": "Tennis requires speed and skill. Example #5933",
+    "label": "sports"
+  },
+  {
+    "text": "Theater combines acting and storytelling. Example #4382",
+    "label": "art"
+  },
+  {
+    "text": "Theater combines acting and storytelling. Example #9185",
+    "label": "art"
+  },
+  {
+    "text": "Tennis requires speed and skill. Example #1248",
+    "label": "sports"
+  },
+  {
+    "text": "Physics explains how the universe works. Example #2565",
+    "label": "science"
+  },
+  {
+    "text": "Sculpture turns stone into art. Example #4954",
+    "label": "art"
+  },
+  {
+    "text": "Tennis requires speed and skill. Example #5272",
+    "label": "sports"
+  },
+  {
+    "text": "Sculpture turns stone into art. Example #9801",
+    "label": "art"
+  },
+  {
+    "text": "Football is a very popular game. Example #9947",
+    "label": "sports"
+  },
+  {
+    "text": "Running is one of the oldest sports. Example #3888",
+    "label": "sports"
+  },
+  {
+    "text": "Biology studies living organisms. Example #4327",
+    "label": "science"
+  },
+  {
+    "text": "Chemistry deals with reactions and matter. Example #5863",
+    "label": "science"
+  },
+  {
+    "text": "Theater combines acting and storytelling. Example #8495",
+    "label": "art"
+  },
+  {
+    "text": "Painting is a beautiful form of expression. Example #3042",
+    "label": "art"
+  },
+  {
+    "text": "Chemistry deals with reactions and matter. Example #770",
+    "label": "science"
+  },
+  {
+    "text": "Photography captures moments forever. Example #1497",
+    "label": "art"
+  },
+  {
+    "text": "Painting is a beautiful form of expression. Example #2875",
+    "label": "art"
+  },
+  {
+    "text": "Painting is a beautiful form of expression. Example #3540",
+    "label": "art"
+  },
+  {
+    "text": "Physics explains how the universe works. Example #7122",
+    "label": "science"
+  },
+  {
+    "text": "Running is one of the oldest sports. Example #6051",
+    "label": "sports"
+  },
+  {
+    "text": "Physics explains how the universe works. Example #6319",
+    "label": "science"
+  },
+  {
+    "text": "Sculpture turns stone into art. Example #5134",
+    "label": "art"
+  },
+  {
+    "text": "Biology studies living organisms. Example #7460",
+    "label": "science"
+  },
+  {
+    "text": "Football is a very popular game. Example #7493",
+    "label": "sports"
+  },
+  {
+    "text": "Photography captures moments forever. Example #9125",
+    "label": "art"
+  },
+  {
+    "text": "Biology studies living organisms. Example #2453",
+    "label": "science"
+  },
+  {
+    "text": "Chemistry deals with reactions and matter. Example #1471",
+    "label": "science"
+  },
+  {
+    "text": "Photography captures moments forever. Example #5137",
+    "label": "art"
+  },
+  {
+    "text": "Astronomy explores stars and planets. Example #9119",
+    "label": "science"
+  },
+  {
+    "text": "Biology studies living organisms. Example #6848",
+    "label": "science"
+  },
+  {
+    "text": "Running is one of the oldest sports. Example #1112",
+    "label": "sports"
+  },
+  {
+    "text": "Chemistry deals with reactions and matter. Example #7358",
+    "label": "science"
+  },
+  {
+    "text": "Football is a very popular game. Example #1093",
+    "label": "sports"
+  },
+  {
+    "text": "Painting is a beautiful form of expression. Example #7887",
+    "label": "art"
+  },
+  {
+    "text": "Basketball is played worldwide. Example #7935",
+    "label": "sports"
+  },
+  {
+    "text": "The Olympics bring nations together. Example #1794",
+    "label": "sports"
+  },
+  {
+    "text": "Basketball is played worldwide. Example #9132",
+    "label": "sports"
+  },
+  {
+    "text": "Chemistry deals with reactions and matter. Example #135",
+    "label": "science"
+  },
+  {
+    "text": "Basketball is played worldwide. Example #9183",
+    "label": "sports"
+  },
+  {
+    "text": "Running is one of the oldest sports. Example #3132",
+    "label": "sports"
+  },
+  {
+    "text": "Photography captures moments forever. Example #1250",
+    "label": "art"
+  },
+  {
+    "text": "Running is one of the oldest sports. Example #8822",
+    "label": "sports"
+  },
+  {
+    "text": "Tennis requires speed and skill. Example #327",
+    "label": "sports"
+  },
+  {
+    "text": "Basketball is played worldwide. Example #2790",
+    "label": "sports"
+  },
+  {
+    "text": "Basketball is played worldwide. Example #2059",
+    "label": "sports"
+  },
+  {
+    "text": "Football is a very popular game. Example #6527",
+    "label": "sports"
+  },
+  {
+    "text": "Chemistry deals with reactions and matter. Example #2476",
+    "label": "science"
+  },
+  {
+    "text": "Physics explains how the universe works. Example #6099",
+    "label": "science"
+  },
+  {
+    "text": "Einstein developed the theory of relativity. Example #1388",
+    "label": "science"
+  },
+  {
+    "text": "Music brings emotions to life. Example #5791",
+    "label": "art"
+  },
+  {
+    "text": "Photography captures moments forever. Example #9598",
+    "label": "art"
+  },
+  {
+    "text": "Tennis requires speed and skill. Example #6546",
+    "label": "sports"
+  },
+  {
+    "text": "Physics explains how the universe works. Example #9672",
+    "label": "science"
+  },
+  {
+    "text": "Theater combines acting and storytelling. Example #2501",
+    "label": "art"
+  },
+  {
+    "text": "The Olympics bring nations together. Example #2488",
+    "label": "sports"
+  },
+  {
+    "text": "Physics explains how the universe works. Example #2574",
+    "label": "science"
+  },
+  {
+    "text": "Music brings emotions to life. Example #9849",
+    "label": "art"
+  },
+  {
+    "text": "Painting is a beautiful form of expression. Example #3924",
+    "label": "art"
+  },
+  {
+    "text": "Football is a very popular game. Example #6789",
+    "label": "sports"
+  },
+  {
+    "text": "Biology studies living organisms. Example #2821",
+    "label": "science"
+  },
+  {
+    "text": "Astronomy explores stars and planets. Example #5046",
+    "label": "science"
+  },
+  {
+    "text": "Tennis requires speed and skill. Example #91",
+    "label": "sports"
+  },
+  {
+    "text": "Photography captures moments forever. Example #3840",
+    "label": "art"
+  },
+  {
+    "text": "Chemistry deals with reactions and matter. Example #4284",
+    "label": "science"
+  },
+  {
+    "text": "Theater combines acting and storytelling. Example #6410",
+    "label": "art"
+  },
+  {
+    "text": "Sculpture turns stone into art. Example #2556",
+    "label": "art"
+  },
+  {
+    "text": "Einstein developed the theory of relativity. Example #8422",
+    "label": "science"
+  },
+  {
+    "text": "Photography captures moments forever. Example #4155",
+    "label": "art"
+  },
+  {
+    "text": "Astronomy explores stars and planets. Example #2017",
+    "label": "science"
+  },
+  {
+    "text": "Running is one of the oldest sports. Example #4236",
+    "label": "sports"
+  },
+  {
+    "text": "Painting is a beautiful form of expression. Example #5472",
+    "label": "art"
+  },
+  {
+    "text": "Chemistry deals with reactions and matter. Example #2051",
+    "label": "science"
+  },
+  {
+    "text": "Theater combines acting and storytelling. Example #959",
+    "label": "art"
+  },
+  {
+    "text": "Physics explains how the universe works. Example #6608",
+    "label": "science"
+  },
+  {
+    "text": "Photography captures moments forever. Example #7873",
+    "label": "art"
+  },
+  {
+    "text": "Football is a very popular game. Example #2803",
+    "label": "sports"
+  },
+  {
+    "text": "Einstein developed the theory of relativity. Example #8515",
+    "label": "science"
+  },
+  {
+    "text": "Chemistry deals with reactions and matter. Example #7922",
+    "label": "science"
+  },
+  {
+    "text": "Basketball is played worldwide. Example #4918",
+    "label": "sports"
+  },
+  {
+    "text": "Running is one of the oldest sports. Example #6439",
+    "label": "sports"
+  },
+  {
+    "text": "Einstein developed the theory of relativity. Example #6163",
+    "label": "science"
+  },
+  {
+    "text": "Tennis requires speed and skill. Example #7557",
+    "label": "sports"
+  },
+  {
+    "text": "Music brings emotions to life. Example #2553",
+    "label": "art"
+  },
+  {
+    "text": "Chemistry deals with reactions and matter. Example #4052",
+    "label": "science"
+  },
+  {
+    "text": "The Olympics bring nations together. Example #5686",
+    "label": "sports"
+  },
+  {
+    "text": "Painting is a beautiful form of expression. Example #3375",
+    "label": "art"
+  },
+  {
+    "text": "Photography captures moments forever. Example #81",
+    "label": "art"
+  },
+  {
+    "text": "Einstein developed the theory of relativity. Example #7004",
+    "label": "science"
+  },
+  {
+    "text": "Music brings emotions to life. Example #9781",
+    "label": "art"
+  },
+  {
+    "text": "Tennis requires speed and skill. Example #573",
+    "label": "sports"
+  },
+  {
+    "text": "Running is one of the oldest sports. Example #6946",
+    "label": "sports"
+  },
+  {
+    "text": "Physics explains how the universe works. Example #2036",
+    "label": "science"
+  },
+  {
+    "text": "Tennis requires speed and skill. Example #2504",
+    "label": "sports"
+  },
+  {
+    "text": "Einstein developed the theory of relativity. Example #7324",
+    "label": "science"
+  },
+  {
+    "text": "Running is one of the oldest sports. Example #1134",
+    "label": "sports"
+  },
+  {
+    "text": "Astronomy explores stars and planets. Example #2330",
+    "label": "science"
+  },
+  {
+    "text": "Sculpture turns stone into art. Example #7909",
+    "label": "art"
+  },
+  {
+    "text": "Photography captures moments forever. Example #6991",
+    "label": "art"
+  },
+  {
+    "text": "Football is a very popular game. Example #4911",
+    "label": "sports"
+  },
+  {
+    "text": "Running is one of the oldest sports. Example #1684",
+    "label": "sports"
+  },
+  {
+    "text": "Tennis requires speed and skill. Example #1500",
+    "label": "sports"
+  },
+  {
+    "text": "Einstein developed the theory of relativity. Example #7176",
+    "label": "science"
+  },
+  {
+    "text": "The Olympics bring nations together. Example #9312",
+    "label": "sports"
+  },
+  {
+    "text": "Painting is a beautiful form of expression. Example #2956",
+    "label": "art"
+  },
+  {
+    "text": "Basketball is played worldwide. Example #490",
+    "label": "sports"
+  },
+  {
+    "text": "Painting is a beautiful form of expression. Example #9155",
+    "label": "art"
+  },
+  {
+    "text": "Music brings emotions to life. Example #6051",
+    "label": "art"
+  },
+  {
+    "text": "Basketball is played worldwide. Example #2575",
+    "label": "sports"
+  },
+  {
+    "text": "Football is a very popular game. Example #9363",
+    "label": "sports"
+  },
+  {
+    "text": "Football is a very popular game. Example #1453",
+    "label": "sports"
+  },
+  {
+    "text": "Painting is a beautiful form of expression. Example #7028",
+    "label": "art"
+  },
+  {
+    "text": "Einstein developed the theory of relativity. Example #1076",
+    "label": "science"
+  },
+  {
+    "text": "Painting is a beautiful form of expression. Example #6913",
+    "label": "art"
+  },
+  {
+    "text": "Basketball is played worldwide. Example #4475",
+    "label": "sports"
+  },
+  {
+    "text": "Physics explains how the universe works. Example #1697",
+    "label": "science"
+  },
+  {
+    "text": "Sculpture turns stone into art. Example #2011",
+    "label": "art"
+  },
+  {
+    "text": "Tennis requires speed and skill. Example #9916",
+    "label": "sports"
+  },
+  {
+    "text": "Physics explains how the universe works. Example #6815",
+    "label": "science"
+  },
+  {
+    "text": "Football is a very popular game. Example #7461",
+    "label": "sports"
+  },
+  {
+    "text": "Einstein developed the theory of relativity. Example #6120",
+    "label": "science"
+  },
+  {
+    "text": "Tennis requires speed and skill. Example #5630",
+    "label": "sports"
+  },
+  {
+    "text": "Physics explains how the universe works. Example #6004",
+    "label": "science"
+  },
+  {
+    "text": "Basketball is played worldwide. Example #2248",
+    "label": "sports"
+  },
+  {
+    "text": "Basketball is played worldwide. Example #1762",
+    "label": "sports"
+  },
+  {
+    "text": "Theater combines acting and storytelling. Example #2223",
+    "label": "art"
+  },
+  {
+    "text": "Tennis requires speed and skill. Example #8639",
+    "label": "sports"
+  },
+  {
+    "text": "Music brings emotions to life. Example #7817",
+    "label": "art"
+  },
+  {
+    "text": "Tennis requires speed and skill. Example #5128",
+    "label": "sports"
+  },
+  {
+    "text": "The Olympics bring nations together. Example #1671",
+    "label": "sports"
+  },
+  {
+    "text": "Running is one of the oldest sports. Example #1370",
+    "label": "sports"
+  },
+  {
+    "text": "Physics explains how the universe works. Example #1718",
+    "label": "science"
+  },
+  {
+    "text": "The Olympics bring nations together. Example #1304",
+    "label": "sports"
+  },
+  {
+    "text": "Physics explains how the universe works. Example #9130",
+    "label": "science"
+  },
+  {
+    "text": "Basketball is played worldwide. Example #1313",
+    "label": "sports"
+  },
+  {
+    "text": "Tennis requires speed and skill. Example #5438",
+    "label": "sports"
+  },
+  {
+    "text": "Music brings emotions to life. Example #8765",
+    "label": "art"
+  },
+  {
+    "text": "The Olympics bring nations together. Example #5316",
+    "label": "sports"
+  },
+  {
+    "text": "Music brings emotions to life. Example #4481",
+    "label": "art"
+  },
+  {
+    "text": "Astronomy explores stars and planets. Example #8787",
+    "label": "science"
+  },
+  {
+    "text": "Physics explains how the universe works. Example #2500",
+    "label": "science"
+  },
+  {
+    "text": "Tennis requires speed and skill. Example #1473",
+    "label": "sports"
+  },
+  {
+    "text": "Basketball is played worldwide. Example #7075",
+    "label": "sports"
+  },
+  {
+    "text": "Physics explains how the universe works. Example #6478",
+    "label": "science"
+  },
+  {
+    "text": "The Olympics bring nations together. Example #6300",
+    "label": "sports"
+  },
+  {
+    "text": "Music brings emotions to life. Example #8672",
+    "label": "art"
+  },
+  {
+    "text": "The Olympics bring nations together. Example #4330",
+    "label": "sports"
+  },
+  {
+    "text": "Astronomy explores stars and planets. Example #3287",
+    "label": "science"
+  },
+  {
+    "text": "Chemistry deals with reactions and matter. Example #4546",
+    "label": "science"
+  },
+  {
+    "text": "Einstein developed the theory of relativity. Example #4261",
+    "label": "science"
+  },
+  {
+    "text": "Painting is a beautiful form of expression. Example #4955",
+    "label": "art"
+  },
+  {
+    "text": "Sculpture turns stone into art. Example #4494",
+    "label": "art"
+  },
+  {
+    "text": "Chemistry deals with reactions and matter. Example #6102",
+    "label": "science"
+  },
+  {
+    "text": "Painting is a beautiful form of expression. Example #4765",
+    "label": "art"
+  },
+  {
+    "text": "Photography captures moments forever. Example #1730",
+    "label": "art"
+  },
+  {
+    "text": "Music brings emotions to life. Example #3457",
+    "label": "art"
+  },
+  {
+    "text": "The Olympics bring nations together. Example #5966",
+    "label": "sports"
+  },
+  {
+    "text": "Astronomy explores stars and planets. Example #2660",
+    "label": "science"
+  },
+  {
+    "text": "Photography captures moments forever. Example #5757",
+    "label": "art"
+  },
+  {
+    "text": "Running is one of the oldest sports. Example #9264",
+    "label": "sports"
+  },
+  {
+    "text": "Painting is a beautiful form of expression. Example #2740",
+    "label": "art"
+  },
+  {
+    "text": "Basketball is played worldwide. Example #802",
+    "label": "sports"
+  },
+  {
+    "text": "Music brings emotions to life. Example #6506",
+    "label": "art"
+  },
+  {
+    "text": "Biology studies living organisms. Example #6411",
+    "label": "science"
+  },
+  {
+    "text": "Chemistry deals with reactions and matter. Example #3740",
+    "label": "science"
+  },
+  {
+    "text": "Football is a very popular game. Example #6371",
+    "label": "sports"
+  },
+  {
+    "text": "Tennis requires speed and skill. Example #3783",
+    "label": "sports"
+  },
+  {
+    "text": "Photography captures moments forever. Example #3796",
+    "label": "art"
+  },
+  {
+    "text": "Astronomy explores stars and planets. Example #5312",
+    "label": "science"
+  },
+  {
+    "text": "Theater combines acting and storytelling. Example #7420",
+    "label": "art"
+  },
+  {
+    "text": "Music brings emotions to life. Example #7753",
+    "label": "art"
+  },
+  {
+    "text": "Physics explains how the universe works. Example #8331",
+    "label": "science"
+  },
+  {
+    "text": "Music brings emotions to life. Example #9442",
+    "label": "art"
+  },
+  {
+    "text": "Photography captures moments forever. Example #7767",
+    "label": "art"
+  },
+  {
+    "text": "Football is a very popular game. Example #9340",
+    "label": "sports"
+  },
+  {
+    "text": "Chemistry deals with reactions and matter. Example #5122",
+    "label": "science"
+  },
+  {
+    "text": "Theater combines acting and storytelling. Example #2152",
+    "label": "art"
+  },
+  {
+    "text": "Running is one of the oldest sports. Example #4328",
+    "label": "sports"
+  },
+  {
+    "text": "Music brings emotions to life. Example #880",
+    "label": "art"
+  },
+  {
+    "text": "Tennis requires speed and skill. Example #1298",
+    "label": "sports"
+  },
+  {
+    "text": "Tennis requires speed and skill. Example #3360",
+    "label": "sports"
+  },
+  {
+    "text": "The Olympics bring nations together. Example #4852",
+    "label": "sports"
+  },
+  {
+    "text": "The Olympics bring nations together. Example #2125",
+    "label": "sports"
+  },
+  {
+    "text": "Basketball is played worldwide. Example #6381",
+    "label": "sports"
+  },
+  {
+    "text": "Biology studies living organisms. Example #450",
+    "label": "science"
+  },
+  {
+    "text": "Theater combines acting and storytelling. Example #9325",
+    "label": "art"
+  },
+  {
+    "text": "Running is one of the oldest sports. Example #9139",
+    "label": "sports"
+  },
+  {
+    "text": "Sculpture turns stone into art. Example #8345",
+    "label": "art"
+  },
+  {
+    "text": "Einstein developed the theory of relativity. Example #3402",
+    "label": "science"
+  },
+  {
+    "text": "The Olympics bring nations together. Example #1682",
+    "label": "sports"
+  },
+  {
+    "text": "Tennis requires speed and skill. Example #9315",
+    "label": "sports"
+  },
+  {
+    "text": "Photography captures moments forever. Example #5448",
+    "label": "art"
+  },
+  {
+    "text": "Sculpture turns stone into art. Example #8453",
+    "label": "art"
+  },
+  {
+    "text": "Photography captures moments forever. Example #1491",
+    "label": "art"
+  },
+  {
+    "text": "Einstein developed the theory of relativity. Example #265",
+    "label": "science"
+  },
+  {
+    "text": "Physics explains how the universe works. Example #8568",
+    "label": "science"
+  },
+  {
+    "text": "Tennis requires speed and skill. Example #75",
+    "label": "sports"
+  },
+  {
+    "text": "Painting is a beautiful form of expression. Example #4726",
+    "label": "art"
+  },
+  {
+    "text": "Painting is a beautiful form of expression. Example #2393",
+    "label": "art"
+  },
+  {
+    "text": "The Olympics bring nations together. Example #377",
+    "label": "sports"
+  },
+  {
+    "text": "Chemistry deals with reactions and matter. Example #573",
+    "label": "science"
+  },
+  {
+    "text": "Sculpture turns stone into art. Example #3553",
+    "label": "art"
+  },
+  {
+    "text": "Chemistry deals with reactions and matter. Example #6939",
+    "label": "science"
+  },
+  {
+    "text": "Biology studies living organisms. Example #5840",
+    "label": "science"
+  },
+  {
+    "text": "Sculpture turns stone into art. Example #3307",
+    "label": "art"
+  },
+  {
+    "text": "Basketball is played worldwide. Example #9312",
+    "label": "sports"
+  },
+  {
+    "text": "Tennis requires speed and skill. Example #8773",
+    "label": "sports"
+  },
+  {
+    "text": "Physics explains how the universe works. Example #7884",
+    "label": "science"
+  },
+  {
+    "text": "The Olympics bring nations together. Example #2906",
+    "label": "sports"
+  },
+  {
+    "text": "Astronomy explores stars and planets. Example #5469",
+    "label": "science"
+  },
+  {
+    "text": "Football is a very popular game. Example #4879",
+    "label": "sports"
+  },
+  {
+    "text": "Sculpture turns stone into art. Example #7565",
+    "label": "art"
+  },
+  {
+    "text": "Biology studies living organisms. Example #4672",
+    "label": "science"
+  },
+  {
+    "text": "Photography captures moments forever. Example #5927",
+    "label": "art"
+  },
+  {
+    "text": "Photography captures moments forever. Example #3013",
+    "label": "art"
+  },
+  {
+    "text": "Biology studies living organisms. Example #872",
+    "label": "science"
+  },
+  {
+    "text": "Tennis requires speed and skill. Example #4677",
+    "label": "sports"
+  },
+  {
+    "text": "Theater combines acting and storytelling. Example #3331",
+    "label": "art"
+  },
+  {
+    "text": "Astronomy explores stars and planets. Example #6304",
+    "label": "science"
+  },
+  {
+    "text": "Running is one of the oldest sports. Example #6899",
+    "label": "sports"
+  },
+  {
+    "text": "The Olympics bring nations together. Example #971",
+    "label": "sports"
+  },
+  {
+    "text": "Running is one of the oldest sports. Example #7751",
+    "label": "sports"
+  },
+  {
+    "text": "Sculpture turns stone into art. Example #1564",
+    "label": "art"
+  },
+  {
+    "text": "Astronomy explores stars and planets. Example #3126",
+    "label": "science"
+  },
+  {
+    "text": "Physics explains how the universe works. Example #9132",
+    "label": "science"
+  },
+  {
+    "text": "Theater combines acting and storytelling. Example #8538",
+    "label": "art"
+  },
+  {
+    "text": "Football is a very popular game. Example #4405",
+    "label": "sports"
+  },
+  {
+    "text": "Music brings emotions to life. Example #9540",
+    "label": "art"
+  },
+  {
+    "text": "Painting is a beautiful form of expression. Example #8175",
+    "label": "art"
+  },
+  {
+    "text": "Physics explains how the universe works. Example #5438",
+    "label": "science"
+  },
+  {
+    "text": "Music brings emotions to life. Example #2670",
+    "label": "art"
+  },
+  {
+    "text": "Tennis requires speed and skill. Example #3665",
+    "label": "sports"
+  },
+  {
+    "text": "Chemistry deals with reactions and matter. Example #4037",
+    "label": "science"
+  },
+  {
+    "text": "Music brings emotions to life. Example #6893",
+    "label": "art"
+  },
+  {
+    "text": "Sculpture turns stone into art. Example #4300",
+    "label": "art"
+  },
+  {
+    "text": "Music brings emotions to life. Example #2062",
+    "label": "art"
+  },
+  {
+    "text": "Physics explains how the universe works. Example #4590",
+    "label": "science"
+  },
+  {
+    "text": "Photography captures moments forever. Example #6022",
+    "label": "art"
+  },
+  {
+    "text": "Theater combines acting and storytelling. Example #2353",
+    "label": "art"
+  },
+  {
+    "text": "Photography captures moments forever. Example #5102",
+    "label": "art"
+  },
+  {
+    "text": "Chemistry deals with reactions and matter. Example #1131",
+    "label": "science"
+  },
+  {
+    "text": "Astronomy explores stars and planets. Example #6723",
+    "label": "science"
+  },
+  {
+    "text": "Photography captures moments forever. Example #6433",
+    "label": "art"
+  },
+  {
+    "text": "Photography captures moments forever. Example #1847",
+    "label": "art"
+  },
+  {
+    "text": "Football is a very popular game. Example #4514",
+    "label": "sports"
+  },
+  {
+    "text": "Painting is a beautiful form of expression. Example #4629",
+    "label": "art"
+  },
+  {
+    "text": "Basketball is played worldwide. Example #7015",
+    "label": "sports"
+  },
+  {
+    "text": "Basketball is played worldwide. Example #3858",
+    "label": "sports"
+  },
+  {
+    "text": "Running is one of the oldest sports. Example #4602",
+    "label": "sports"
+  },
+  {
+    "text": "Running is one of the oldest sports. Example #9119",
+    "label": "sports"
+  },
+  {
+    "text": "Painting is a beautiful form of expression. Example #6017",
+    "label": "art"
+  },
+  {
+    "text": "Biology studies living organisms. Example #5673",
+    "label": "science"
+  },
+  {
+    "text": "Einstein developed the theory of relativity. Example #2074",
+    "label": "science"
+  },
+  {
+    "text": "Photography captures moments forever. Example #5807",
+    "label": "art"
+  },
+  {
+    "text": "The Olympics bring nations together. Example #9292",
+    "label": "sports"
+  },
+  {
+    "text": "Painting is a beautiful form of expression. Example #3858",
+    "label": "art"
+  },
+  {
+    "text": "Biology studies living organisms. Example #2759",
+    "label": "science"
+  },
+  {
+    "text": "Einstein developed the theory of relativity. Example #9001",
+    "label": "science"
+  },
+  {
+    "text": "Football is a very popular game. Example #1321",
+    "label": "sports"
+  },
+  {
+    "text": "The Olympics bring nations together. Example #78",
+    "label": "sports"
+  },
+  {
+    "text": "Music brings emotions to life. Example #7438",
+    "label": "art"
+  },
+  {
+    "text": "Sculpture turns stone into art. Example #2425",
+    "label": "art"
+  },
+  {
+    "text": "Running is one of the oldest sports. Example #6420",
+    "label": "sports"
+  },
+  {
+    "text": "Music brings emotions to life. Example #7679",
+    "label": "art"
+  },
+  {
+    "text": "Basketball is played worldwide. Example #6542",
+    "label": "sports"
+  },
+  {
+    "text": "Physics explains how the universe works. Example #5407",
+    "label": "science"
+  },
+  {
+    "text": "Astronomy explores stars and planets. Example #484",
+    "label": "science"
+  },
+  {
+    "text": "Music brings emotions to life. Example #3169",
+    "label": "art"
+  },
+  {
+    "text": "Music brings emotions to life. Example #353",
+    "label": "art"
+  },
+  {
+    "text": "Theater combines acting and storytelling. Example #2127",
+    "label": "art"
+  },
+  {
+    "text": "Painting is a beautiful form of expression. Example #5364",
+    "label": "art"
+  },
+  {
+    "text": "Biology studies living organisms. Example #5192",
+    "label": "science"
+  },
+  {
+    "text": "Sculpture turns stone into art. Example #6063",
+    "label": "art"
+  },
+  {
+    "text": "Football is a very popular game. Example #4624",
+    "label": "sports"
+  },
+  {
+    "text": "Biology studies living organisms. Example #5812",
+    "label": "science"
+  },
+  {
+    "text": "Einstein developed the theory of relativity. Example #9446",
+    "label": "science"
+  },
+  {
+    "text": "Music brings emotions to life. Example #7133",
+    "label": "art"
+  },
+  {
+    "text": "Physics explains how the universe works. Example #7318",
+    "label": "science"
+  },
+  {
+    "text": "Football is a very popular game. Example #3025",
+    "label": "sports"
+  },
+  {
+    "text": "Einstein developed the theory of relativity. Example #2333",
+    "label": "science"
+  },
+  {
+    "text": "Running is one of the oldest sports. Example #125",
+    "label": "sports"
+  },
+  {
+    "text": "Sculpture turns stone into art. Example #2697",
+    "label": "art"
+  },
+  {
+    "text": "Football is a very popular game. Example #7170",
+    "label": "sports"
+  },
+  {
+    "text": "Music brings emotions to life. Example #1599",
+    "label": "art"
+  },
+  {
+    "text": "Photography captures moments forever. Example #3275",
+    "label": "art"
+  },
+  {
+    "text": "Photography captures moments forever. Example #7375",
+    "label": "art"
+  },
+  {
+    "text": "Tennis requires speed and skill. Example #3996",
+    "label": "sports"
+  },
+  {
+    "text": "Einstein developed the theory of relativity. Example #2888",
+    "label": "science"
+  },
+  {
+    "text": "Chemistry deals with reactions and matter. Example #5211",
+    "label": "science"
+  },
+  {
+    "text": "Music brings emotions to life. Example #3683",
+    "label": "art"
+  },
+  {
+    "text": "Sculpture turns stone into art. Example #3934",
+    "label": "art"
+  },
+  {
+    "text": "Biology studies living organisms. Example #3645",
+    "label": "science"
+  },
+  {
+    "text": "Einstein developed the theory of relativity. Example #4344",
     "label": "science"
   },
   {
-    "text": "The hockey match ended with a thrilling shootout last year.",
+    "text": "The Olympics bring nations together. Example #9052",
     "label": "sports"
   },
   {
-    "text": "The composer created a symphony for a string orchestra worldwide.",
-    "label": "art"
+    "text": "Biology studies living organisms. Example #4048",
+    "label": "science"
+  },
+  {
+    "text": "The Olympics bring nations together. Example #9831",
+    "label": "sports"
   },
   {
-    "text": "Scientists discovered a new exoplanet similar to Earth last year.",
+    "text": "Biology studies living organisms. Example #3676",
     "label": "science"
   },
   {
-    "text": "Physicists conducted an experiment on quantum entanglement worldwide.",
+    "text": "Einstein developed the theory of relativity. Example #7534",
     "label": "science"
   },
   {
-    "text": "The football team won the championship final last year.",
+    "text": "Tennis requires speed and skill. Example #363",
     "label": "sports"
   },
   {
-    "text": "The museum opened an exhibition of modern sculptures in New York.",
-    "label": "art"
+    "text": "Football is a very popular game. Example #3819",
+    "label": "sports"
   },
   {
-    "text": "The football team won the championship final in New York.",
+    "text": "Chemistry deals with reactions and matter. Example #7645",
+    "label": "science"
+  },
+  {
+    "text": "Running is one of the oldest sports. Example #1150",
     "label": "sports"
   },
   {
-    "text": "The poet released a collection of new poems according to experts.",
-    "label": "art"
+    "text": "The Olympics bring nations together. Example #8191",
+    "label": "sports"
+  },
+  {
+    "text": "Running is one of the oldest sports. Example #7078",
+    "label": "sports"
   },
   {
-    "text": "Physicists conducted an experiment on quantum entanglement according to experts.",
+    "text": "Astronomy explores stars and planets. Example #9420",
     "label": "science"
   },
   {
-    "text": "The museum opened an exhibition of modern sculptures yesterday.",
+    "text": "Theater combines acting and storytelling. Example #807",
     "label": "art"
   },
   {
-    "text": "The football team won the championship final in New York.",
+    "text": "Astronomy explores stars and planets. Example #5069",
+    "label": "science"
+  },
+  {
+    "text": "Football is a very popular game. Example #4673",
     "label": "sports"
   },
   {
-    "text": "The theater premiered a play by a classic author yesterday.",
+    "text": "Theater combines acting and storytelling. Example #7686",
     "label": "art"
   },
   {
-    "text": "The football team won the championship final last year.",
-    "label": "sports"
+    "text": "Painting is a beautiful form of expression. Example #3059",
+    "label": "art"
   },
   {
-    "text": "Physicists conducted an experiment on quantum entanglement in New York.",
+    "text": "Astronomy explores stars and planets. Example #9773",
     "label": "science"
   },
   {
-    "text": "The poet released a collection of new poems in New York.",
+    "text": "Sculpture turns stone into art. Example #2865",
     "label": "art"
+  },
+  {
+    "text": "Biology studies living organisms. Example #5796",
+    "label": "science"
   },
   {
-    "text": "Basketball players fought hard until overtime worldwide.",
+    "text": "Tennis requires speed and skill. Example #6727",
     "label": "sports"
   },
   {
-    "text": "Scientists discovered a new exoplanet similar to Earth according to experts.",
+    "text": "Photography captures moments forever. Example #1654",
+    "label": "art"
+  },
+  {
+    "text": "Sculpture turns stone into art. Example #1808",
+    "label": "art"
+  },
+  {
+    "text": "Einstein developed the theory of relativity. Example #3641",
     "label": "science"
   },
   {
-    "text": "The artist unveiled a new painting at the gallery",
+    "text": "Photography captures moments forever. Example #624",
     "label": "art"
   },
   {
-    "text": "The runner broke the world record in the marathon worldwide.",
-    "label": "sports"
+    "text": "Photography captures moments forever. Example #8663",
+    "label": "art"
   },
   {
-    "text": "Biologists mapped the genome of a rare species",
+    "text": "Astronomy explores stars and planets. Example #2457",
     "label": "science"
   },
   {
-    "text": "Biologists mapped the genome of a rare species last year.",
+    "text": "Biology studies living organisms. Example #868",
     "label": "science"
   },
   {
-    "text": "The runner broke the world record in the marathon in New York.",
+    "text": "Football is a very popular game. Example #451",
     "label": "sports"
   },
   {
-    "text": "The runner broke the world record in the marathon yesterday.",
+    "text": "Football is a very popular game. Example #6627",
     "label": "sports"
   },
   {
-    "text": "The football team won the championship final according to experts.",
+    "text": "Football is a very popular game. Example #4192",
     "label": "sports"
   },
   {
-    "text": "The composer created a symphony for a string orchestra worldwide.",
+    "text": "Theater combines acting and storytelling. Example #9926",
     "label": "art"
   },
   {
-    "text": "Scientists discovered a new exoplanet similar to Earth",
+    "text": "Photography captures moments forever. Example #4522",
+    "label": "art"
+  },
+  {
+    "text": "Einstein developed the theory of relativity. Example #4390",
     "label": "science"
   },
   {
-    "text": "The football team won the championship final",
+    "text": "The Olympics bring nations together. Example #9192",
     "label": "sports"
   },
   {
-    "text": "Physicists conducted an experiment on quantum entanglement yesterday.",
-    "label": "science"
+    "text": "Running is one of the oldest sports. Example #6332",
+    "label": "sports"
   },
   {
-    "text": "The museum opened an exhibition of modern sculptures",
+    "text": "Music brings emotions to life. Example #8779",
     "label": "art"
   },
   {
-    "text": "The theater premiered a play by a classic author worldwide.",
+    "text": "Painting is a beautiful form of expression. Example #1159",
     "label": "art"
   },
   {
-    "text": "Physicists conducted an experiment on quantum entanglement yesterday.",
+    "text": "Biology studies living organisms. Example #5482",
     "label": "science"
+  },
+  {
+    "text": "Painting is a beautiful form of expression. Example #1026",
+    "label": "art"
   },
   {
-    "text": "The artist unveiled a new painting at the gallery worldwide.",
+    "text": "Sculpture turns stone into art. Example #8020",
     "label": "art"
   },
   {
-    "text": "The hockey match ended with a thrilling shootout according to experts.",
+    "text": "Sculpture turns stone into art. Example #6508",
+    "label": "art"
+  },
+  {
+    "text": "The Olympics bring nations together. Example #9617",
     "label": "sports"
   },
   {
-    "text": "Researchers developed a new vaccine for influenza",
-    "label": "science"
+    "text": "Tennis requires speed and skill. Example #4467",
+    "label": "sports"
+  },
+  {
+    "text": "Sculpture turns stone into art. Example #2325",
+    "label": "art"
   },
   {
-    "text": "The tennis player secured a Grand Slam victory yesterday.",
+    "text": "Running is one of the oldest sports. Example #3236",
     "label": "sports"
   },
   {
-    "text": "The hockey match ended with a thrilling shootout last year.",
+    "text": "Football is a very popular game. Example #4649",
     "label": "sports"
   },
   {
-    "text": "The artist unveiled a new painting at the gallery in New York.",
+    "text": "Photography captures moments forever. Example #8405",
     "label": "art"
   },
   {
-    "text": "The poet released a collection of new poems yesterday.",
+    "text": "Basketball is played worldwide. Example #2693",
+    "label": "sports"
+  },
+  {
+    "text": "Photography captures moments forever. Example #5748",
     "label": "art"
+  },
+  {
+    "text": "Chemistry deals with reactions and matter. Example #4911",
+    "label": "science"
   },
   {
-    "text": "The artist unveiled a new painting at the gallery according to experts.",
+    "text": "Painting is a beautiful form of expression. Example #6756",
     "label": "art"
   },
   {
-    "text": "The football team won the championship final in New York.",
+    "text": "Tennis requires speed and skill. Example #8147",
     "label": "sports"
   },
   {
-    "text": "Scientists discovered a new exoplanet similar to Earth worldwide.",
+    "text": "Einstein developed the theory of relativity. Example #3511",
     "label": "science"
   },
   {
-    "text": "Researchers developed a new vaccine for influenza yesterday.",
-    "label": "science"
+    "text": "Theater combines acting and storytelling. Example #4946",
+    "label": "art"
   },
   {
-    "text": "Physicists conducted an experiment on quantum entanglement according to experts.",
-    "label": "science"
+    "text": "Basketball is played worldwide. Example #5273",
+    "label": "sports"
   },
   {
-    "text": "The poet released a collection of new poems worldwide.",
+    "text": "Photography captures moments forever. Example #2554",
     "label": "art"
+  },
+  {
+    "text": "The Olympics bring nations together. Example #128",
+    "label": "sports"
   },
   {
-    "text": "Scientists discovered a new exoplanet similar to Earth",
+    "text": "Einstein developed the theory of relativity. Example #7796",
     "label": "science"
   },
   {
-    "text": "The football team won the championship final yesterday.",
-    "label": "sports"
+    "text": "Einstein developed the theory of relativity. Example #635",
+    "label": "science"
   },
   {
-    "text": "The poet released a collection of new poems",
-    "label": "art"
+    "text": "Einstein developed the theory of relativity. Example #3489",
+    "label": "science"
   },
   {
-    "text": "The museum opened an exhibition of modern sculptures yesterday.",
+    "text": "Theater combines acting and storytelling. Example #3332",
     "label": "art"
   },
   {
-    "text": "The football team won the championship final yesterday.",
+    "text": "Running is one of the oldest sports. Example #9687",
     "label": "sports"
   },
   {
-    "text": "Researchers developed a new vaccine for influenza worldwide.",
+    "text": "Einstein developed the theory of relativity. Example #9113",
     "label": "science"
   },
   {
-    "text": "The theater premiered a play by a classic author last year.",
+    "text": "Sculpture turns stone into art. Example #3769",
     "label": "art"
   },
   {
-    "text": "The hockey match ended with a thrilling shootout in New York.",
+    "text": "Basketball is played worldwide. Example #5476",
     "label": "sports"
   },
   {
-    "text": "Basketball players fought hard until overtime according to experts.",
-    "label": "sports"
+    "text": "Photography captures moments forever. Example #8057",
+    "label": "art"
   },
   {
-    "text": "The hockey match ended with a thrilling shootout yesterday.",
+    "text": "Running is one of the oldest sports. Example #45",
     "label": "sports"
   },
   {
-    "text": "The composer created a symphony for a string orchestra last year.",
+    "text": "Sculpture turns stone into art. Example #9113",
     "label": "art"
   },
   {
-    "text": "The composer created a symphony for a string orchestra",
+    "text": "Painting is a beautiful form of expression. Example #4478",
     "label": "art"
   },
   {
-    "text": "The tennis player secured a Grand Slam victory worldwide.",
+    "text": "Running is one of the oldest sports. Example #7839",
     "label": "sports"
-  },
-  {
-    "text": "The artist unveiled a new painting at the gallery according to experts.",
-    "label": "art"
   },
   {
-    "text": "The football team won the championship final according to experts.",
+    "text": "Running is one of the oldest sports. Example #8360",
     "label": "sports"
   },
   {
-    "text": "The poet released a collection of new poems worldwide.",
+    "text": "Music brings emotions to life. Example #6627",
     "label": "art"
   },
   {
-    "text": "The composer created a symphony for a string orchestra according to experts.",
+    "text": "Photography captures moments forever. Example #7679",
     "label": "art"
   },
   {
-    "text": "Researchers developed a new vaccine for influenza worldwide.",
-    "label": "science"
+    "text": "Music brings emotions to life. Example #7488",
+    "label": "art"
   },
   {
-    "text": "Researchers developed a new vaccine for influenza in New York.",
-    "label": "science"
+    "text": "The Olympics bring nations together. Example #9991",
+    "label": "sports"
   },
   {
-    "text": "Physicists conducted an experiment on quantum entanglement according to experts.",
+    "text": "Astronomy explores stars and planets. Example #8144",
     "label": "science"
   },
   {
-    "text": "Biologists mapped the genome of a rare species worldwide.",
-    "label": "science"
+    "text": "Photography captures moments forever. Example #6939",
+    "label": "art"
   },
   {
-    "text": "Researchers developed a new vaccine for influenza in New York.",
+    "text": "Einstein developed the theory of relativity. Example #7774",
     "label": "science"
   },
   {
-    "text": "Researchers developed a new vaccine for influenza worldwide.",
+    "text": "Einstein developed the theory of relativity. Example #8744",
     "label": "science"
   },
   {
-    "text": "Biologists mapped the genome of a rare species according to experts.",
-    "label": "science"
+    "text": "Theater combines acting and storytelling. Example #3148",
+    "label": "art"
   },
   {
-    "text": "Astronomers published images of distant galaxies according to experts.",
+    "text": "Physics explains how the universe works. Example #8257",
     "label": "science"
   },
   {
-    "text": "Researchers developed a new vaccine for influenza worldwide.",
-    "label": "science"
+    "text": "Basketball is played worldwide. Example #5022",
+    "label": "sports"
   },
   {
-    "text": "The football team won the championship final in New York.",
+    "text": "The Olympics bring nations together. Example #9553",
     "label": "sports"
   },
   {
-    "text": "The hockey match ended with a thrilling shootout last year.",
-    "label": "sports"
+    "text": "Chemistry deals with reactions and matter. Example #8628",
+    "label": "science"
   },
   {
-    "text": "The artist unveiled a new painting at the gallery",
+    "text": "Theater combines acting and storytelling. Example #5575",
     "label": "art"
   },
   {
-    "text": "Astronomers published images of distant galaxies worldwide.",
+    "text": "Physics explains how the universe works. Example #2121",
     "label": "science"
-  },
-  {
-    "text": "The tennis player secured a Grand Slam victory in New York.",
-    "label": "sports"
   },
   {
-    "text": "The museum opened an exhibition of modern sculptures according to experts.",
+    "text": "Photography captures moments forever. Example #4436",
     "label": "art"
   },
   {
-    "text": "The artist unveiled a new painting at the gallery in New York.",
+    "text": "Photography captures moments forever. Example #8803",
     "label": "art"
   },
   {
-    "text": "Biologists mapped the genome of a rare species in New York.",
+    "text": "Chemistry deals with reactions and matter. Example #2682",
     "label": "science"
   },
   {
-    "text": "Biologists mapped the genome of a rare species according to experts.",
-    "label": "science"
+    "text": "Running is one of the oldest sports. Example #5171",
+    "label": "sports"
   },
   {
-    "text": "The museum opened an exhibition of modern sculptures according to experts.",
-    "label": "art"
+    "text": "The Olympics bring nations together. Example #1141",
+    "label": "sports"
   },
   {
-    "text": "Basketball players fought hard until overtime worldwide.",
+    "text": "The Olympics bring nations together. Example #9448",
     "label": "sports"
   },
   {
-    "text": "The museum opened an exhibition of modern sculptures worldwide.",
-    "label": "art"
+    "text": "Astronomy explores stars and planets. Example #3768",
+    "label": "science"
   },
   {
-    "text": "The artist unveiled a new painting at the gallery worldwide.",
+    "text": "Music brings emotions to life. Example #4820",
     "label": "art"
   },
   {
-    "text": "The hockey match ended with a thrilling shootout",
+    "text": "The Olympics bring nations together. Example #1581",
     "label": "sports"
   },
   {
-    "text": "The composer created a symphony for a string orchestra",
-    "label": "art"
+    "text": "Einstein developed the theory of relativity. Example #9964",
+    "label": "science"
   },
   {
-    "text": "Basketball players fought hard until overtime worldwide.",
-    "label": "sports"
+    "text": "Theater combines acting and storytelling. Example #1130",
+    "label": "art"
   },
   {
-    "text": "The tennis player secured a Grand Slam victory according to experts.",
-    "label": "sports"
+    "text": "Chemistry deals with reactions and matter. Example #5606",
+    "label": "science"
   },
   {
-    "text": "Astronomers published images of distant galaxies last year.",
+    "text": "Astronomy explores stars and planets. Example #1117",
     "label": "science"
   },
   {
-    "text": "The poet released a collection of new poems according to experts.",
+    "text": "Theater combines acting and storytelling. Example #9160",
     "label": "art"
   },
   {
-    "text": "Scientists discovered a new exoplanet similar to Earth last year.",
-    "label": "science"
+    "text": "The Olympics bring nations together. Example #1377",
+    "label": "sports"
   },
   {
-    "text": "The hockey match ended with a thrilling shootout according to experts.",
-    "label": "sports"
+    "text": "Sculpture turns stone into art. Example #2934",
+    "label": "art"
   },
   {
-    "text": "The runner broke the world record in the marathon last year.",
+    "text": "Running is one of the oldest sports. Example #6619",
     "label": "sports"
   },
   {
-    "text": "Physicists conducted an experiment on quantum entanglement",
+    "text": "Einstein developed the theory of relativity. Example #77",
     "label": "science"
+  },
+  {
+    "text": "Tennis requires speed and skill. Example #9804",
+    "label": "sports"
   },
   {
-    "text": "Physicists conducted an experiment on quantum entanglement",
+    "text": "Football is a very popular game. Example #5301",
+    "label": "sports"
+  },
+  {
+    "text": "Einstein developed the theory of relativity. Example #586",
     "label": "science"
   },
   {
-    "text": "The runner broke the world record in the marathon",
+    "text": "Basketball is played worldwide. Example #8395",
     "label": "sports"
+  },
+  {
+    "text": "Music brings emotions to life. Example #5209",
+    "label": "art"
   },
   {
-    "text": "The museum opened an exhibition of modern sculptures last year.",
+    "text": "Photography captures moments forever. Example #9835",
     "label": "art"
   },
   {
-    "text": "Scientists discovered a new exoplanet similar to Earth yesterday.",
+    "text": "Einstein developed the theory of relativity. Example #1092",
     "label": "science"
   },
   {
-    "text": "The football team won the championship final yesterday.",
+    "text": "The Olympics bring nations together. Example #7587",
     "label": "sports"
   },
   {
-    "text": "Basketball players fought hard until overtime worldwide.",
+    "text": "Football is a very popular game. Example #1851",
     "label": "sports"
+  },
+  {
+    "text": "Music brings emotions to life. Example #9296",
+    "label": "art"
   },
   {
-    "text": "The tennis player secured a Grand Slam victory yesterday.",
+    "text": "The Olympics bring nations together. Example #2105",
     "label": "sports"
   },
   {
-    "text": "Basketball players fought hard until overtime worldwide.",
+    "text": "Football is a very popular game. Example #3851",
     "label": "sports"
   },
   {
-    "text": "The poet released a collection of new poems in New York.",
-    "label": "art"
+    "text": "Einstein developed the theory of relativity. Example #6759",
+    "label": "science"
   },
   {
-    "text": "The theater premiered a play by a classic author yesterday.",
+    "text": "Painting is a beautiful form of expression. Example #5429",
     "label": "art"
   },
   {
-    "text": "The runner broke the world record in the marathon",
+    "text": "Tennis requires speed and skill. Example #5941",
     "label": "sports"
   },
   {
-    "text": "The football team won the championship final yesterday.",
+    "text": "Football is a very popular game. Example #7392",
     "label": "sports"
   },
   {
-    "text": "Astronomers published images of distant galaxies",
+    "text": "Astronomy explores stars and planets. Example #4941",
     "label": "science"
   },
   {
-    "text": "Biologists mapped the genome of a rare species yesterday.",
-    "label": "science"
+    "text": "Basketball is played worldwide. Example #8074",
+    "label": "sports"
   },
   {
-    "text": "The theater premiered a play by a classic author yesterday.",
-    "label": "art"
+    "text": "Basketball is played worldwide. Example #1091",
+    "label": "sports"
   },
   {
-    "text": "The museum opened an exhibition of modern sculptures",
+    "text": "Theater combines acting and storytelling. Example #2116",
     "label": "art"
   },
   {
-    "text": "The composer created a symphony for a string orchestra yesterday.",
-    "label": "art"
+    "text": "Tennis requires speed and skill. Example #2970",
+    "label": "sports"
   },
   {
-    "text": "Biologists mapped the genome of a rare species worldwide.",
+    "text": "Astronomy explores stars and planets. Example #7490",
     "label": "science"
   },
   {
-    "text": "Scientists discovered a new exoplanet similar to Earth yesterday.",
+    "text": "Einstein developed the theory of relativity. Example #8350",
     "label": "science"
   },
   {
-    "text": "Physicists conducted an experiment on quantum entanglement",
+    "text": "Einstein developed the theory of relativity. Example #9122",
     "label": "science"
   },
   {
-    "text": "The museum opened an exhibition of modern sculptures",
+    "text": "Photography captures moments forever. Example #6568",
     "label": "art"
   },
   {
-    "text": "The composer created a symphony for a string orchestra worldwide.",
-    "label": "art"
+    "text": "Biology studies living organisms. Example #3151",
+    "label": "science"
+  },
+  {
+    "text": "The Olympics bring nations together. Example #222",
+    "label": "sports"
   },
   {
-    "text": "The museum opened an exhibition of modern sculptures yesterday.",
+    "text": "Sculpture turns stone into art. Example #8888",
     "label": "art"
+  },
+  {
+    "text": "Football is a very popular game. Example #8207",
+    "label": "sports"
+  },
+  {
+    "text": "Football is a very popular game. Example #9798",
+    "label": "sports"
   },
   {
-    "text": "The football team won the championship final yesterday.",
+    "text": "Tennis requires speed and skill. Example #7776",
     "label": "sports"
+  },
+  {
+    "text": "Einstein developed the theory of relativity. Example #3852",
+    "label": "science"
+  },
+  {
+    "text": "Biology studies living organisms. Example #2062",
+    "label": "science"
   },
   {
-    "text": "Basketball players fought hard until overtime last year.",
+    "text": "Tennis requires speed and skill. Example #5423",
     "label": "sports"
+  },
+  {
+    "text": "Physics explains how the universe works. Example #7383",
+    "label": "science"
   },
   {
-    "text": "Researchers developed a new vaccine for influenza worldwide.",
+    "text": "Chemistry deals with reactions and matter. Example #5348",
     "label": "science"
+  },
+  {
+    "text": "Theater combines acting and storytelling. Example #1757",
+    "label": "art"
   },
   {
-    "text": "The museum opened an exhibition of modern sculptures yesterday.",
+    "text": "Music brings emotions to life. Example #8108",
     "label": "art"
   },
   {
-    "text": "Astronomers published images of distant galaxies in New York.",
+    "text": "Photography captures moments forever. Example #5990",
+    "label": "art"
+  },
+  {
+    "text": "Astronomy explores stars and planets. Example #1993",
     "label": "science"
   },
   {
-    "text": "The football team won the championship final in New York.",
+    "text": "Basketball is played worldwide. Example #4662",
     "label": "sports"
   },
   {
-    "text": "The runner broke the world record in the marathon in New York.",
+    "text": "Football is a very popular game. Example #2559",
     "label": "sports"
+  },
+  {
+    "text": "Photography captures moments forever. Example #378",
+    "label": "art"
   },
   {
-    "text": "Researchers developed a new vaccine for influenza last year.",
+    "text": "Physics explains how the universe works. Example #5540",
     "label": "science"
   },
   {
-    "text": "The hockey match ended with a thrilling shootout in New York.",
-    "label": "sports"
+    "text": "Theater combines acting and storytelling. Example #9330",
+    "label": "art"
   },
   {
-    "text": "The poet released a collection of new poems worldwide.",
+    "text": "Chemistry deals with reactions and matter. Example #7599",
+    "label": "science"
+  },
+  {
+    "text": "Photography captures moments forever. Example #9543",
     "label": "art"
   },
   {
-    "text": "The tennis player secured a Grand Slam victory",
+    "text": "The Olympics bring nations together. Example #434",
     "label": "sports"
   },
   {
-    "text": "Astronomers published images of distant galaxies yesterday.",
-    "label": "science"
+    "text": "Tennis requires speed and skill. Example #807",
+    "label": "sports"
   },
   {
-    "text": "The poet released a collection of new poems in New York.",
+    "text": "Photography captures moments forever. Example #9503",
     "label": "art"
   },
   {
-    "text": "The museum opened an exhibition of modern sculptures worldwide.",
+    "text": "Painting is a beautiful form of expression. Example #1820",
     "label": "art"
   },
   {
-    "text": "The composer created a symphony for a string orchestra according to experts.",
+    "text": "Music brings emotions to life. Example #6655",
     "label": "art"
   },
   {
-    "text": "Researchers developed a new vaccine for influenza in New York.",
+    "text": "Biology studies living organisms. Example #9141",
     "label": "science"
+  },
+  {
+    "text": "Photography captures moments forever. Example #4773",
+    "label": "art"
   },
   {
-    "text": "The football team won the championship final in New York.",
+    "text": "Running is one of the oldest sports. Example #6833",
     "label": "sports"
   },
   {
-    "text": "Biologists mapped the genome of a rare species last year.",
+    "text": "Chemistry deals with reactions and matter. Example #2161",
     "label": "science"
   },
   {
-    "text": "Astronomers published images of distant galaxies",
+    "text": "Photography captures moments forever. Example #4999",
+    "label": "art"
+  },
+  {
+    "text": "Einstein developed the theory of relativity. Example #4386",
     "label": "science"
   },
   {
-    "text": "The poet released a collection of new poems last year.",
+    "text": "Theater combines acting and storytelling. Example #5099",
     "label": "art"
   },
   {
-    "text": "Biologists mapped the genome of a rare species worldwide.",
-    "label": "science"
+    "text": "The Olympics bring nations together. Example #2854",
+    "label": "sports"
   },
   {
-    "text": "Astronomers published images of distant galaxies worldwide.",
-    "label": "science"
+    "text": "Painting is a beautiful form of expression. Example #4661",
+    "label": "art"
   },
   {
-    "text": "Astronomers published images of distant galaxies",
+    "text": "Biology studies living organisms. Example #494",
     "label": "science"
   },
   {
-    "text": "The runner broke the world record in the marathon worldwide.",
+    "text": "The Olympics bring nations together. Example #3139",
     "label": "sports"
+  },
+  {
+    "text": "Theater combines acting and storytelling. Example #6276",
+    "label": "art"
+  },
+  {
+    "text": "Astronomy explores stars and planets. Example #962",
+    "label": "science"
   },
   {
-    "text": "Basketball players fought hard until overtime according to experts.",
+    "text": "Football is a very popular game. Example #2131",
     "label": "sports"
   },
   {
-    "text": "Physicists conducted an experiment on quantum entanglement according to experts.",
+    "text": "Biology studies living organisms. Example #5262",
     "label": "science"
+  },
+  {
+    "text": "Theater combines acting and storytelling. Example #8778",
+    "label": "art"
   },
   {
-    "text": "Researchers developed a new vaccine for influenza worldwide.",
+    "text": "Astronomy explores stars and planets. Example #2337",
     "label": "science"
   },
   {
-    "text": "The hockey match ended with a thrilling shootout according to experts.",
+    "text": "Theater combines acting and storytelling. Example #1156",
+    "label": "art"
+  },
+  {
+    "text": "Football is a very popular game. Example #4679",
     "label": "sports"
   },
   {
-    "text": "Biologists mapped the genome of a rare species in New York.",
-    "label": "science"
+    "text": "Tennis requires speed and skill. Example #6673",
+    "label": "sports"
   },
   {
-    "text": "Basketball players fought hard until overtime in New York.",
+    "text": "Tennis requires speed and skill. Example #3427",
     "label": "sports"
   },
   {
-    "text": "The poet released a collection of new poems in New York.",
+    "text": "Photography captures moments forever. Example #99",
     "label": "art"
   },
   {
-    "text": "The hockey match ended with a thrilling shootout yesterday.",
+    "text": "Basketball is played worldwide. Example #901",
     "label": "sports"
   },
   {
-    "text": "Astronomers published images of distant galaxies worldwide.",
+    "text": "Physics explains how the universe works. Example #644",
     "label": "science"
   },
   {
-    "text": "Researchers developed a new vaccine for influenza yesterday.",
+    "text": "Einstein developed the theory of relativity. Example #2528",
     "label": "science"
   },
   {
-    "text": "Biologists mapped the genome of a rare species in New York.",
+    "text": "Biology studies living organisms. Example #7009",
     "label": "science"
   },
   {
-    "text": "The theater premiered a play by a classic author worldwide.",
-    "label": "art"
+    "text": "Astronomy explores stars and planets. Example #2204",
+    "label": "science"
   },
   {
-    "text": "The football team won the championship final",
+    "text": "Running is one of the oldest sports. Example #3082",
     "label": "sports"
   },
   {
-    "text": "Researchers developed a new vaccine for influenza",
+    "text": "Astronomy explores stars and planets. Example #8644",
     "label": "science"
+  },
+  {
+    "text": "Football is a very popular game. Example #4545",
+    "label": "sports"
+  },
+  {
+    "text": "Running is one of the oldest sports. Example #3928",
+    "label": "sports"
   },
   {
-    "text": "Astronomers published images of distant galaxies according to experts.",
+    "text": "Biology studies living organisms. Example #776",
     "label": "science"
   },
   {
-    "text": "The poet released a collection of new poems worldwide.",
-    "label": "art"
+    "text": "The Olympics bring nations together. Example #8079",
+    "label": "sports"
   },
   {
-    "text": "The runner broke the world record in the marathon according to experts.",
+    "text": "The Olympics bring nations together. Example #21",
     "label": "sports"
+  },
+  {
+    "text": "Photography captures moments forever. Example #9948",
+    "label": "art"
+  },
+  {
+    "text": "Chemistry deals with reactions and matter. Example #9028",
+    "label": "science"
   },
   {
-    "text": "Biologists mapped the genome of a rare species according to experts.",
+    "text": "Astronomy explores stars and planets. Example #7208",
     "label": "science"
+  },
+  {
+    "text": "Sculpture turns stone into art. Example #7031",
+    "label": "art"
   },
   {
-    "text": "Researchers developed a new vaccine for influenza yesterday.",
+    "text": "Biology studies living organisms. Example #7012",
     "label": "science"
   },
   {
-    "text": "Researchers developed a new vaccine for influenza",
+    "text": "Biology studies living organisms. Example #8622",
     "label": "science"
   },
   {
-    "text": "The poet released a collection of new poems according to experts.",
+    "text": "Football is a very popular game. Example #7684",
+    "label": "sports"
+  },
+  {
+    "text": "Sculpture turns stone into art. Example #3194",
     "label": "art"
   },
   {
-    "text": "The tennis player secured a Grand Slam victory worldwide.",
+    "text": "The Olympics bring nations together. Example #8531",
     "label": "sports"
   },
   {
-    "text": "Biologists mapped the genome of a rare species last year.",
+    "text": "Einstein developed the theory of relativity. Example #8716",
     "label": "science"
   },
   {
-    "text": "The theater premiered a play by a classic author according to experts.",
-    "label": "art"
+    "text": "Basketball is played worldwide. Example #858",
+    "label": "sports"
+  },
+  {
+    "text": "Chemistry deals with reactions and matter. Example #8757",
+    "label": "science"
   },
   {
-    "text": "The artist unveiled a new painting at the gallery last year.",
+    "text": "Photography captures moments forever. Example #245",
     "label": "art"
   },
   {
-    "text": "The artist unveiled a new painting at the gallery yesterday.",
+    "text": "Sculpture turns stone into art. Example #4946",
     "label": "art"
   },
   {
-    "text": "The football team won the championship final worldwide.",
+    "text": "Running is one of the oldest sports. Example #4736",
     "label": "sports"
   },
   {
-    "text": "The hockey match ended with a thrilling shootout worldwide.",
+    "text": "Football is a very popular game. Example #1876",
     "label": "sports"
   },
   {
-    "text": "The theater premiered a play by a classic author last year.",
+    "text": "Painting is a beautiful form of expression. Example #9738",
     "label": "art"
   },
   {
-    "text": "Scientists discovered a new exoplanet similar to Earth",
+    "text": "Theater combines acting and storytelling. Example #3546",
+    "label": "art"
+  },
+  {
+    "text": "Photography captures moments forever. Example #4726",
+    "label": "art"
+  },
+  {
+    "text": "Physics explains how the universe works. Example #9862",
     "label": "science"
   },
   {
-    "text": "The football team won the championship final worldwide.",
-    "label": "sports"
+    "text": "Chemistry deals with reactions and matter. Example #2220",
+    "label": "science"
   },
   {
-    "text": "The theater premiered a play by a classic author in New York.",
+    "text": "Photography captures moments forever. Example #7703",
     "label": "art"
   },
   {
-    "text": "Basketball players fought hard until overtime according to experts.",
-    "label": "sports"
+    "text": "Physics explains how the universe works. Example #4067",
+    "label": "science"
   },
   {
-    "text": "The artist unveiled a new painting at the gallery yesterday.",
-    "label": "art"
+    "text": "Biology studies living organisms. Example #1073",
+    "label": "science"
   },
   {
-    "text": "Astronomers published images of distant galaxies last year.",
+    "text": "Biology studies living organisms. Example #8156",
     "label": "science"
   },
   {
-    "text": "Researchers developed a new vaccine for influenza in New York.",
+    "text": "Physics explains how the universe works. Example #9080",
     "label": "science"
   },
   {
-    "text": "The composer created a symphony for a string orchestra last year.",
-    "label": "art"
+    "text": "Basketball is played worldwide. Example #2325",
+    "label": "sports"
   },
   {
-    "text": "The artist unveiled a new painting at the gallery yesterday.",
+    "text": "Music brings emotions to life. Example #7749",
     "label": "art"
   },
   {
-    "text": "Scientists discovered a new exoplanet similar to Earth according to experts.",
+    "text": "Physics explains how the universe works. Example #8789",
     "label": "science"
   },
   {
-    "text": "The runner broke the world record in the marathon according to experts.",
+    "text": "The Olympics bring nations together. Example #7796",
     "label": "sports"
   },
   {
-    "text": "Astronomers published images of distant galaxies yesterday.",
-    "label": "science"
+    "text": "Basketball is played worldwide. Example #6746",
+    "label": "sports"
   },
   {
-    "text": "Researchers developed a new vaccine for influenza yesterday.",
-    "label": "science"
+    "text": "Tennis requires speed and skill. Example #915",
+    "label": "sports"
   },
   {
-    "text": "The football team won the championship final yesterday.",
-    "label": "sports"
+    "text": "Painting is a beautiful form of expression. Example #6487",
+    "label": "art"
   },
   {
-    "text": "Biologists mapped the genome of a rare species",
+    "text": "Biology studies living organisms. Example #7139",
     "label": "science"
   },
   {
-    "text": "The artist unveiled a new painting at the gallery in New York.",
-    "label": "art"
+    "text": "Basketball is played worldwide. Example #2820",
+    "label": "sports"
   },
   {
-    "text": "The tennis player secured a Grand Slam victory according to experts.",
+    "text": "Tennis requires speed and skill. Example #6084",
     "label": "sports"
   },
   {
-    "text": "Physicists conducted an experiment on quantum entanglement according to experts.",
-    "label": "science"
+    "text": "Football is a very popular game. Example #6532",
+    "label": "sports"
   },
   {
-    "text": "Scientists discovered a new exoplanet similar to Earth in New York.",
+    "text": "Astronomy explores stars and planets. Example #3026",
     "label": "science"
   },
   {
-    "text": "The hockey match ended with a thrilling shootout worldwide.",
+    "text": "Tennis requires speed and skill. Example #4451",
     "label": "sports"
   },
   {
-    "text": "The hockey match ended with a thrilling shootout",
+    "text": "Football is a very popular game. Example #749",
     "label": "sports"
   },
   {
-    "text": "Astronomers published images of distant galaxies in New York.",
+    "text": "Biology studies living organisms. Example #3052",
     "label": "science"
   },
   {
-    "text": "The museum opened an exhibition of modern sculptures according to experts.",
+    "text": "Music brings emotions to life. Example #3664",
     "label": "art"
   },
   {
-    "text": "The composer created a symphony for a string orchestra worldwide.",
+    "text": "Photography captures moments forever. Example #9334",
     "label": "art"
   },
   {
-    "text": "Basketball players fought hard until overtime according to experts.",
+    "text": "Einstein developed the theory of relativity. Example #4619",
+    "label": "science"
+  },
+  {
+    "text": "Basketball is played worldwide. Example #3955",
     "label": "sports"
   },
   {
-    "text": "The poet released a collection of new poems last year.",
+    "text": "Music brings emotions to life. Example #3687",
     "label": "art"
   },
   {
-    "text": "Researchers developed a new vaccine for influenza according to experts.",
+    "text": "Physics explains how the universe works. Example #2882",
     "label": "science"
+  },
+  {
+    "text": "Sculpture turns stone into art. Example #8540",
+    "label": "art"
+  },
+  {
+    "text": "Basketball is played worldwide. Example #9235",
+    "label": "sports"
+  },
+  {
+    "text": "Painting is a beautiful form of expression. Example #4560",
+    "label": "art"
   },
   {
-    "text": "The museum opened an exhibition of modern sculptures",
+    "text": "Music brings emotions to life. Example #3153",
     "label": "art"
   },
   {
-    "text": "The museum opened an exhibition of modern sculptures according to experts.",
+    "text": "Theater combines acting and storytelling. Example #9849",
     "label": "art"
+  },
+  {
+    "text": "Theater combines acting and storytelling. Example #9941",
+    "label": "art"
+  },
+  {
+    "text": "The Olympics bring nations together. Example #1331",
+    "label": "sports"
+  },
+  {
+    "text": "Chemistry deals with reactions and matter. Example #1964",
+    "label": "science"
+  },
+  {
+    "text": "Basketball is played worldwide. Example #7998",
+    "label": "sports"
   },
   {
-    "text": "",
-    "label": ""
+    "text": "Sculpture turns stone into art. Example #2169",
+    "label": "art"
   }
 ]

@@ -25,7 +25,30 @@ class DatasetLoader:
         if self._df is None:
             raise ValueError("Dataset not loaded. Call .load() first.")
         
-        print("📊 Dataset shape:", self._df.shape)
-        print("🗂 Columns:", list(self._df.columns))
-        print(f"\n🔎 First {n} rows:")
+        print("📌 Dataset shape:", self._df.shape)
+        print("📌 Columns:", list(self._df.columns))
+        print(f"\n📌 First {n} rows:")
         print(self._df.head(n))
+
+    def analyze_by(self, col: set) -> None:
+        if self._df is None:
+            raise ValueError("Dataset not loaded. Call .load() first")
+        df = self._df
+
+        print("\n📌 Missing values and empty strings:")
+        print(df.isnull().sum())
+        print(f"\n📌 Empty '{col}': ", (df[col] == "").sum())
+        
+        print("\n📌 Class distribution (counts):")
+        print(df[col].value_counts())
+
+        print("\n📌 Class distribution (normalized):")
+        print(df[col].value_counts(normalize=True))
+
+        print("\n📌 Text length statistics (characters):")
+        print(df[col].str.len().describe())
+
+        print("\n📌 Text length statistics (words):")
+        print(df[col].str.split().str.len().describe())
+
+     

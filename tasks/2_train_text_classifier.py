@@ -3,28 +3,46 @@ from utils.dataset_loader import DatasetLoader
 from pathlib import Path
 from collections import Counter
 from itertools import chain
-import matplotlib.pyplot as plt
+from sklearn.model_selection import train_test_split
+from sklearn.feature_extraction.text import TfidfVectorizer
 
 
 def main():
 
+    #------------------- DATASET PREPARATION --------------------------
     loader = DatasetLoader("./assets/topics.json")
 
     data = loader.load()
-    #print(f"Distribution of features: {data['label'].value_counts(normalize=True)}")
- 
-    words = list(chain.from_iterable(data['text'].str.lower().str.split()))
-    #print(Counter(words).most_common(20))
 
+    loader.analyze_by("label")
 
-    # Check if there are empty texts
-    #print(data.isnull().sum())
+    data = data.dropna() #remove NaN strings
+    data = data[data["text"] != ""] #keep only non empty rows
 
-    empty_strings = (data['text'] == '').sum()
-    #print("Empty strings in 'text':", empty_strings)
+    duplicates = data["text"].duplicated().sum()
+    print(f"\n📌 Number of duplicates: {duplicates}")
 
-    data['label'].value_counts().plot(kind='bar')
-    plt.show()
+    data = data.drop_duplicates()
+
+    #------------------- TRAIN&TEST SPLIT --------------------------
+
+    X_train, X_test, y_train, y_test = train_test_split(
+        data["text"],
+        data["label"],
+        test_size=0.2, # 20% test selection
+        random_state=42,
+        stratify=data["label"] # keep class ballance
+    )
+
+    print("Train size:", len(X_train))
+    print("Test size:", len(X_test))
+
+    #------------------- TRANSFORM TEXT --------------------------
+
+    vectorizer = TfidfVectorizer(max_features=5000)
+    X_train_tfidf = vectorizer.fit_transform(X_train)
+    X_test_tfidf = vectorizer.transform(X_test)
+
 
 if __name__ == "__main__":
     main()
