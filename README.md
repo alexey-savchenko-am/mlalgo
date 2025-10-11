@@ -1,5 +1,5 @@
 # mlalgo
-A collection of machine learning algorithms with clear implementations and examples.
+A collection of machine learning algorithms with clear implementations and examples
 
 ## Regressions
 
