@@ -1,7 +1,9 @@
 import sys
 import pandas as pd
 from pathlib import Path
-from typing import Union
+from typing import Union, Iterator, List
+import ijson
+
 sys.path.append(str(Path(__file__).resolve().parent.parent))
 class DatasetLoader:
     def __init__(self, file_path: Union[str, Path]):
@@ -21,6 +23,18 @@ class DatasetLoader:
         
         return self._df
     
+    def load_batch(self, batch_size: int = 200) -> Iterator[pd.DataFrame]:
+        with open(self._file_path, "r", encoding="utf-8") as f:
+            parser = ijson.items(f, "item")
+            batch = []
+            for item in parser:
+                batch.append(item)
+                if len(batch) >= batch_size:
+                    yield pd.DataFrame(batch)
+                    batch = []
+            if batch:
+                yield pd.DataFrame(batch)
+                
     def describe(self, n: int = 5):
         if self._df is None:
             raise ValueError("Dataset not loaded. Call .load() first.")
